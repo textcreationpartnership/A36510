@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly conference between a Paulist and a Galatian in defence of the Apostolical doctrine of justification by faith without works : against many specious exceptions of the modern Galatians : wherein the question, whether the gospel be a new law is modestly discussed and determined in the negative / by Thomas Danson ...</title>
+            <author>Danson, Thomas, d. 1694.</author>
+         </titleStmt>
+         <extent>Approx. 144 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36510</idno><idno type="EEBO-CITATION">12129413</idno>
+  <idno type="VID">54685</idno>
+  <idno type="EEBO-PROQUEST">2248565597</idno>
+  
+            <idno type="STC">Wing D212</idno>
+            <idno type="STC">ESTC R1929</idno>
+            <idno type="OCLC">12129413</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 760:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly conference between a Paulist and a Galatian in defence of the Apostolical doctrine of justification by faith without works : against many specious exceptions of the modern Galatians : wherein the question, whether the gospel be a new law is modestly discussed and determined in the negative / by Thomas Danson ...</title>
+                  <author>Danson, Thomas, d. 1694.</author>
+               </titleStmt>
+               <extent>[16], 80 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Justification --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54685:1"/>
+            <pb facs="tcp:54685:1"/>
+            <p>A Friendly Conference BETWEEN A <hi>Paulist</hi> and a <hi>Galatian,</hi> In DEFENCE of the Apostolical Doctrine OF JUSTIFICATION by FAITH without Works; Against many Specious Exceptions of the Modern <hi>GALATIANS:</hi>
+            </p>
+            <p>WHEREIN The Question, whether the Gospel be a New Law is modestly Discussed and Determined in the Negative.</p>
+            <p>By <hi>THOMAS DANSON,</hi> Minister of the Gospel, sometime Fellow of <hi>Magd.</hi> Coll. <hi>Oxon.</hi>
+            </p>
+            <q>
+               <p>—Valde sibi acuti videnter Papistae quum <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llegant Ope<g ref="char:EOLhyphen"/>ribus se Nihil tribuere, nisi mediante Christi gratiâ. Quasi verò alius fuerit Galatarum Error. Neque enim à Christo desicere se credebant, aut renuntiare ejus gratiae,</p>
+               <bibl>
+                  <hi>Calv. in Galat. 5.2.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London:</hi> Printed for <hi>Samuel Crouch,</hi> over against the <hi>Royal Exchange,</hi> in <hi>Cornhil.</hi> 1694.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:54685:2"/>
+            <pb facs="tcp:54685:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>THE Author of this Discourse, <hi>pretends</hi> not to so great a name as to expect, That his Assertions should be swallowed without chewing, embraced without examination upon his Authority: And indeed, he sees not the need of any such <hi>Pretence</hi> for such an End; for he presents the Reader but with the <hi>Doctrine</hi> of the <hi>Protestant Divines,</hi> whose name and authority (if there be a<g ref="char:EOLhyphen"/>ny defect in its evidence) might challenge such a Veneration, as may forbid any hasty or rough opposition of what they have unanimously consented in. As to his Performance in compiling, he is aware, that not himself, but the Reader must and will be judge; and therefore to prevent the trouble of bringing a <hi>Writ of Error</hi> a<g ref="char:EOLhyphen"/>gainst his Judgment, the Author thinks it needful to give an account of the <hi>occasion of the Composure,</hi> the <hi>manner of handling the
+<pb facs="tcp:54685:3"/>Subject,</hi> the <hi>reason of the Publication at this time,</hi> and the <hi>weight of the Controversie.</hi>
+            </p>
+            <p>As for the Occasion; About Eighteen Years since Three Reverend Divines Mr. <hi>William Jenkyn,</hi> Mr. <hi>Christopher Fowler,</hi> and Mr. <hi>William Cowper</hi> (with whom the Author had the honour to be intimately acquainted) did often in his hearing com<g ref="char:EOLhyphen"/>plain, of the increase of many dangerous Errours in Doctrine, since the Year 1660. In which complaint the Author also joyn<g ref="char:EOLhyphen"/>ed, and withal gave them an account of a <hi>Collection</hi> which he had begun out of the most noted Authors, and cast under Four Heads <hi>(viz. Socinianism, Popery, Arminia<g ref="char:EOLhyphen"/>nism, Hobbeism)</hi> which account they en<g ref="char:EOLhyphen"/>couraged him to augment and perfect, as accordingly he did. And the Reverend Mr. <hi>Jenkyn,</hi> was so well satisfied in the fi<g ref="char:EOLhyphen"/>delity of the Collector, that upon occasi<g ref="char:EOLhyphen"/>on of a Contest between a Divine and Himself, he Transcribed so many of the Collections as he thought meet, and pub<g ref="char:EOLhyphen"/>lished them in his <hi>Latin</hi> Book, entituled, <hi>Celeusma.</hi> And the Report of those <hi>Col<g ref="char:EOLhyphen"/>lections</hi> came to the Ears of the <hi>House of Commons;</hi> when there arose some Debates about Religion, about 1678 and the <hi>Chair<g ref="char:EOLhyphen"/>man</hi> of the Committee for Religion, Mr. <hi>Dubeis,</hi> of <hi>London,</hi> Merchant; sent the
+<pb facs="tcp:54685:3"/>Reverend Mr. <hi>William Cowper,</hi> for those Collections which had, the Popish <hi>Errours, Names of the Authors,</hi> and of the <hi>Licensers</hi> in one <hi>Column,</hi> and the Doctrine of the Church of <hi>England,</hi> out of the <hi>Ar<g ref="char:EOLhyphen"/>ticles</hi> and <hi>Homilies,</hi> in another <hi>Column,</hi> and the <hi>Collectors</hi> name subscribed.</p>
+            <p>When these <hi>Collections</hi> were weighed, the Committee made Report, and the House was startled at <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and it was thought, the <hi>Authors <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ers</hi> would have been called to <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Prorogation</hi> of the <hi>House</hi>
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it.</p>
+            <p>But to return to the <hi>Triumviri</hi> after the <hi>Collection</hi> above mentioned, they p<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d to the <hi>Collector</hi> another Task, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Draw up for the Press some (a<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) the <hi>Principal Arguments</hi> against the <hi>Errours</hi> contain'd in the <hi>Collection,</hi> and a concise Reply to the most specious Objections; which, as to Popery and Arminianism ac<g ref="char:EOLhyphen"/>cordingly was done to their Content.</p>
+            <p>And what is now tender'd, is a part of what was intended for the Press long since, in compliance with their requests; had not the Authors call into the <hi>Countrey,</hi> and the death of those worthy Divines hin<g ref="char:EOLhyphen"/>dred his further Incouragement, without which he was as a Ship becalm'd.</p>
+            <pb facs="tcp:54685:4"/>
+            <p> As for the manner of handling the Sub<g ref="char:EOLhyphen"/>ject; It is handled concisely, that the Reader may not be discouraged from buy<g ref="char:EOLhyphen"/>ing by the Price, nor from reading by the Bulk, and as plainly as the <hi>nature</hi> of the <hi>Subject</hi> would bear; which is done for the Advantage of <hi>Private Christians,</hi> many of whom are concerned about the Differen<g ref="char:EOLhyphen"/>ces in these Points.</p>
+            <p>The Author well remembers, how much sorrow and wonder that Pious and Prudent Gentleman, <hi>Henry Ashurst, of London, Esq;</hi> (now ascended to Glory) exprest, at the <hi>joyning of works with faith in our Justificati<g ref="char:EOLhyphen"/>on,</hi> by a <hi>Divine of Note</hi> (and whom he had a great Esteem for) and there are others living, that look upon the same <hi>Divine's</hi> (and his <hi>Followers) Errour</hi> in that Point with great regret.</p>
+            <p>And that the <hi>Discourse</hi> might be more suited to the capacity of the meanest Rea<g ref="char:EOLhyphen"/>der, capable of understanding Controver<g ref="char:EOLhyphen"/>sies, the Author hath thought fit to cast the <hi>materials</hi> into the <hi>Form</hi> of a <hi>Dialogue,</hi> which <hi>method</hi> he was encouraged to, by the good reception which the worthy Divine Mr. <hi>Matthew Pool's Dialogue,</hi> and a <hi>Friendly De<g ref="char:EOLhyphen"/>bate</hi> of the Authors met withal, some years since; and by the advantage which it af<g ref="char:EOLhyphen"/>fords to the <hi>Reader,</hi> whose attention is
+<pb facs="tcp:54685:4"/>
+               <hi>quickned</hi> by <hi>alternate Discourse,</hi> which is <hi>dul<g ref="char:EOLhyphen"/>led</hi> by a series of <hi>close Argumentation.</hi> The Author is not ignorant of the <hi>Exception</hi> which lies against this method of handling Controversies: That the <hi>Composer</hi> gives himself an advantage, (and too often uses it) to make his <hi>Antagonist</hi> say, not what himself <hi>thinks,</hi> but what the <hi>Composer</hi> plea<g ref="char:EOLhyphen"/>ses: but this Author is willing to bear the <hi>shame</hi> of <hi>Disingenuity,</hi> if he be found guilty in that kind. And yet being sensi<g ref="char:EOLhyphen"/>ble of some appearance of such guilt, he thinks himself concerned to prevent cen<g ref="char:EOLhyphen"/>sure by an Apology <hi>once</hi> or <hi>twice</hi> (at most) he brings in the <hi>Galation,</hi> as giving the <hi>Pau<g ref="char:EOLhyphen"/>line Divines</hi> contemptuous words: but they are the very same which a <hi>Divine</hi> of that <hi>Denomination gives them in Print.</hi> And now and then the <hi>Galation</hi> is represented as at a loss for an Answer; the true rea<g ref="char:EOLhyphen"/>son whereof is, that the <hi>Author</hi> had neither met with any writer that answers some of the <hi>Paulist</hi> Arguments, nor could he exco<g ref="char:EOLhyphen"/>gitate a tolerable Reply. And sometimes the <hi>Galation</hi> is introduced as inclinable to face about and embrace the Truth he had relinquished, but that fault may admit of this fair excuse; That the <hi>Paulist</hi> suppo<g ref="char:EOLhyphen"/>ses his <hi>Antagonist</hi> so honest-hearted, as to be willing to acknowledge his Errour,
+<pb facs="tcp:54685:5"/>when convinced of it; and to suppose him convinced who makes no reply to the Ar<g ref="char:EOLhyphen"/>gument produced, is no more unreasona<g ref="char:EOLhyphen"/>ble, than that a Prisoners standing mute at the <hi>Bar</hi> should be taken for a <hi>Confession</hi> of his Guilt. And indeed the Author of this <hi>Conference</hi> hath been so far from repre<g ref="char:EOLhyphen"/>senting his Antagonists notions by halves, that he hath <hi>explained</hi> them when they seemed obscure, and added strength to their Arguments where they seemed to need it. And the Author hath given the Titles of <hi>Paulist</hi> and <hi>Galatian</hi> to the Dia<g ref="char:EOLhyphen"/>logists, because the Controversie here a<g ref="char:EOLhyphen"/>gitated is the same, with that between <hi>Paul</hi> and the <hi>Galatians (viz.)</hi> whether we are ju<g ref="char:EOLhyphen"/>stified by Faith or Works, <hi>Gal.</hi> 2.16. <hi>ch.</hi> 3.11, 12. The meaning of which <hi>terms,</hi> and the difference assigned between the Con<g ref="char:EOLhyphen"/>troversie then on foot, and now, is consi<g ref="char:EOLhyphen"/>dered in the following Conference.</p>
+            <p>The <hi>Author</hi> hath not named the <hi>Authors</hi> nor <hi>Books,</hi> which he writes against; and to that <hi>omission</hi> he could hardly reconcile his own thoughts. He apprehended it might seem an <hi>effect</hi> of <hi>fear,</hi> to provoke <hi>per<g ref="char:EOLhyphen"/>ticular Persons;</hi> and yet he considered, that supposing it was so, yet that fear was not altogether unreasonable in him, who hath been a frequent Witness of Mens Impati<g ref="char:EOLhyphen"/>ence
+<pb facs="tcp:54685:5"/>of <hi>Contradiction;</hi> of their being as <hi>hot</hi> as a <hi>Taylors Goose,</hi> tho not so <hi>weighty;</hi> and that the <hi>End aimed at</hi> might be obtained otherwise; and why then should a writer court spleen, and be fond of reproaches? especially such as disparage his skill in his Profession; of which the most Pious and Learned <hi>Durham</hi> took notice, and modest<g ref="char:EOLhyphen"/>ly retorted: <hi>and tho unlearned and unread Divines, be the Epithets of the opposers of this Doctrine, yet possibly experience may show, that such may most readily be the Embracers of it. Expos. on Rev.</hi> 3. <hi>p.</hi> 146. and he speaks of the very Doctrine this Treatise opposes.</p>
+            <p>The <hi>End</hi> aimed at, in speaking to <hi>things</hi> not <hi>Persons</hi> is, That the Discourse here of<g ref="char:EOLhyphen"/>fer'd <hi>may be weighed in an even ballance</hi> (to use <hi>Jobs</hi> phrase, <hi>Job.</hi> 31.6) not <hi>poized by the hand;</hi> and this end is more likely to be obtain'd, by the course above mentio<g ref="char:EOLhyphen"/>ned: for the opposers of the Doctrine here defended, when they find not their own <hi>Names</hi> called in <hi>Question,</hi> may more calm<g ref="char:EOLhyphen"/>ly Deliberate before they pass Sentence; and their <hi>Followers</hi> (who have their <hi>Persons in admiration</hi>) may possibly be induced to consider <hi>what</hi> is said, when they know not against whom; otherwise they might in<g ref="char:EOLhyphen"/>dulge themselves in the <hi>Heathens</hi> humour, <hi>Facilius effecerit, quisquis objecerit, crimen ho<g ref="char:EOLhyphen"/>nestum,
+<pb facs="tcp:54685:6"/>quàm turpem Catonem</hi> Sen. <hi>He would rather call Vice Vertue, than</hi> Cato <hi>vi<g ref="char:EOLhyphen"/>cious:</hi> And they may embrace Errour for Truth, wander with their guides, rather than believe they could mistake their way.</p>
+            <p>And the Author of this Discourse hath cited but few Protestant Divines (and those such as the Dialogists might have read, or quotations out of them; because his Design is not to prove the <hi>Matter of Fact,</hi> simply by their <hi>Testimonies</hi> (which is alto<g ref="char:EOLhyphen"/>gether needless to those who have perused them, with any heedfulness and judgment) but by laying their Arguments and Re<g ref="char:EOLhyphen"/>plies, to their Opposers Objections, as close as may be together, that the Reader may pass an Impartial Judgment upon <hi>Fact</hi> and <hi>Right;</hi> that this is their <hi>Doctrine,</hi> and that <hi>it is true.</hi>
+            </p>
+            <p>
+               <hi>The reason of the Publication,</hi> is not the want of Authors that speak fully and clear<g ref="char:EOLhyphen"/>ly to the Controversie in our Native Lan<g ref="char:EOLhyphen"/>guage; as Mr. <hi>Anthony Burgesse,</hi> Mr. <hi>Samuel Rolles,</hi> Mr. <hi>John Troughton, &amp;c.</hi> (which latter deserves Perusal, particular<g ref="char:EOLhyphen"/>ly for the Proof he makes, of the natural Tendency of our Antagonists Doctrine to <hi>Socinianism, &amp;c.</hi>)</p>
+            <p>But a <hi>Compliance</hi> with the <hi>Importunity</hi> of some <hi>Friends,</hi> who have entertain'd
+<pb facs="tcp:54685:6"/>the better Opinion of the Discourse, be<g ref="char:EOLhyphen"/>cause they knew that the three <hi>worthy Di<g ref="char:EOLhyphen"/>vines</hi> before mentioned had given their <hi>Im<g ref="char:EOLhyphen"/>primatur</hi> to it, and it's no uncommon Ob<g ref="char:EOLhyphen"/>servation, that <hi>new Books</hi> like <hi>new Fashions</hi> are most <hi>in request;</hi> but indeed, the chief Motives are, <hi>That a great deal of Matter is crowded into a little room.</hi> The Book is like the <hi>Picture of a Fight,</hi> wherein are more <hi>Heads</hi> of Men and Horses than <hi>whole Bo<g ref="char:EOLhyphen"/>dies;</hi> by which course, whether he hath done <hi>right</hi> or <hi>wrong</hi> to the Cause, is not for himself to say. To affirm the <hi>former,</hi> would be <hi>Immodest Pride;</hi> to affirm the <hi>latter, Proud Modesty:</hi> And that the <hi>Au<g ref="char:EOLhyphen"/>thor is willing to enter his protest against Er<g ref="char:EOLhyphen"/>rours,</hi> which he does greatly dislike, and the rather, because many Divines of bet<g ref="char:EOLhyphen"/>ter Abilities (for reasons best known to themselves) are contented to be <hi>Spectators,</hi> rather than <hi>Parties</hi> in this <hi>Quarrel,</hi> in a time when these Errours spread like a <hi>Gangrene.</hi>
+            </p>
+            <p>And now the <hi>Weight of the Controversie</hi> expects its room, in this Epistle. Some indeed of our <hi>English Protestant Divines</hi> speak <hi>slightly</hi> of it; one upon <hi>Rev.</hi> 3.1. hath this Passage: <hi>Thou hast a Name that thou livest, as being so full of Zeal for or a<g ref="char:EOLhyphen"/>gainst this Ceremony, and that Opinion, with
+<pb facs="tcp:54685:7"/>hot and nice Disputes about Faith and Justifica<g ref="char:EOLhyphen"/>tion, and the time of these nice Disputes</hi> himself assigns (viz.) <hi>When Protestantism had become the Religion of Nations and Kingdoms;</hi> and thence we know very well (without being put to the trouble of guessing) that the <hi>Disputes</hi> were about <hi>Justification by Faith or Works,</hi> &amp;c. Another Divine says, <hi>As far as I can see, St.</hi> Paul <hi>never meddles with a matter of that nicety; Whether a single act of Faith be the condition of our Justification, as it is distinguished from Evangelical Obedience</hi>— and a little after; <hi>I know the subtilty of later times hath made St.</hi> Paul <hi>dispute in the matter of Justification, not as one bred up at the feet of</hi> Gamaliel, <hi>but of the Mr. of the sentences.</hi>
+            </p>
+            <p>The Author thinks it unmeet to let this latter passage pass without this brief Ani<g ref="char:EOLhyphen"/>madversion; That if that <hi>learned Divine</hi> intends <hi>that distinction</hi> (as probably he does) <hi>sides sola justificat, sed non quae sola, i. e.</hi> Faith <hi>alone</hi> justifies, but not that Faith which <hi>is alone.</hi> There seems to be no more <hi>subtil<g ref="char:EOLhyphen"/>ty</hi> in that, than in this <hi>distinction</hi> drawn from St. <hi>Paul's Doctrine, Christus qui Deus mortuus est, sed non quâ Deus.</hi> That is, Christ who is <hi>God</hi> dyed; but he died not <hi>as God,</hi> which it is to be hoped that wor<g ref="char:EOLhyphen"/>thy Divine approves of, notwithstanding its Subtilty. But there is a Third Divine
+<pb facs="tcp:54685:7"/>who bears us in hand, That the common Opinion that justifying Faith, as justifying, doth consist in one single Act is a wretch<g ref="char:EOLhyphen"/>ed mistake; and if so, then surely the <hi>mistake</hi> is of some <hi>consequence,</hi> or else his <hi>Epithite</hi> is very <hi>Hyperbolical.</hi>
+            </p>
+            <p>But not to transgress the <hi>Laws of archi<g ref="char:EOLhyphen"/>tecture,</hi> in making a <hi>large Porch</hi> before a <hi>little House:</hi> The Author recommends to the Readers Consideration, Mr. <hi>Durhams Sentiment</hi> of the Doctrines opposed in this Discourse.</p>
+            <p>
+               <hi>If by this, all the former Doctrine of Justifica<g ref="char:EOLhyphen"/>tion be enervated, Where are we till now? If it stand so, as the followers thereof may attain Heaven; what is the use of this so full a mould, with so much professed danger in, and dissatisfaction with the former? Will it not be welcome to Papists to have Protestants speak<g ref="char:EOLhyphen"/>ing in their Termes, and hemologating them in condemning the former Language of the most Eminent Reformers,</hi> &amp;c. <hi>Rev.</hi> 3 [pag. 146. in 4<seg rend="sup">o</seg>.] and presently after he subjoynes, <hi>If under this new Model another matter is com<g ref="char:EOLhyphen"/>prehended, than formerly hath been intended by other expressions, in the writings of others, it cannot be so easily approved, lest we should con<g ref="char:EOLhyphen"/>demn the Generation of Gods People, who have gone before us,</hi> Id. Ib. And if their Doctrine be the same for Substance with the old <hi>Ga<g ref="char:EOLhyphen"/>latians,</hi>
+               <pb facs="tcp:54685:8"/>the Apostle hath passed this <hi>censure</hi> up<g ref="char:EOLhyphen"/>on it, that it is another Gospel, <hi>ch.</hi> 1.6. [<hi>i. e.</hi> quite different from what he taught] yet not another, but a <hi>Perversion of the Gospel of Christ, v.</hi> 7. and hath denounced a Curse against the <hi>Teachers</hi> of it, <hi>v.</hi> 8. and <hi>learners</hi> too, <hi>ch.</hi> 54. And what Defence our <hi>Mo<g ref="char:EOLhyphen"/>dern Galatians</hi> can make for themselves will soon appear (for the Tryal will not be long) they being now brought to the Bar) if the Reader will but take his <hi>Place</hi> on the <hi>Bench.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>
+                     <hi>March</hi> 6. 1694.</date>
+               </dateline>
+               <signed>Tho. Danson.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:54685:8"/>
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>THE Author of the following Discourse thinks it meet to answer two objections;</hi> one <hi>which hath been made against the</hi> Publi<g ref="char:EOLhyphen"/>cation <hi>of it</hi> (viz.) <hi>That the peace of the Church is not consulted thereby; to that</hi> Calvin <hi>shall return an Answer:</hi> The Purity of the Do<g ref="char:EOLhyphen"/>ctrine <hi>[of justification] (of that he speaks)</hi> is to be constantly maintained, though Heaven and Earth should be mingled to<g ref="char:EOLhyphen"/>gether. The Name of Peace is Plausible, but Cursed is that Peace which is bought with the loss of the Doctrine of Christ, by which <hi>[Doctrine]</hi> alone we co<g ref="char:EOLhyphen"/>alesce into an holy Unity. [Acts Ap. 15.1.] <hi>And there is another which he foresees like<g ref="char:EOLhyphen"/>ly to be made; that some</hi> Tenents <hi>are here confuted which their assertor hath</hi> retracted. <hi>The ground of the Allegation must be, that he once signified he would have the measure of his Judgment taken rather from other Books of his, than that out of which a Colle<g ref="char:EOLhyphen"/>ction is here made. But that Retractation was but in general terms; and it seems evi<g ref="char:EOLhyphen"/>dent that his Judgment was not changed, by his defence of the same notions against divers Learned men, who wrote against them; and by this</hi> Commendation of the Orthodox<g ref="char:EOLhyphen"/>ness
+<pb facs="tcp:54685:9"/>
+               <hi>of a certain writer,</hi> in explaining those Texts that meddle with Justification, and Remission of Sins, with Faith and Works, <hi>which Explications contain the summ of the most Heterodox Opinions about these points, in that</hi> pretendedly <hi>retracted Book, and there<g ref="char:EOLhyphen"/>fore are some passages quoted out of that</hi> com<g ref="char:EOLhyphen"/>mended Writer <hi>in the</hi> Conference <hi>now presented to the Reader; and besides if the</hi> Assertor <hi>of the</hi> Tenents <hi>above mentioned had</hi> really <hi>retracted them, unless he had imi<g ref="char:EOLhyphen"/>tated</hi> Chillingworths <hi>Candor (who answe<g ref="char:EOLhyphen"/>red his own Arguments against</hi> Protestantism <hi>in Print) it might seem needful to refute them, because there are many who still retain them, and therefore either do not believe his change of Judgment, or if they do, yet they take his</hi> Second Thoughts <hi>to be not better, but</hi> worse <hi>than his first. And indeed it is easier to</hi> thrust <hi>a Man into a deep</hi> Ditch, <hi>than to pluck him out again; to</hi> lead <hi>him into an Errour, than to draw him off from it.</hi>
+            </p>
+            <closer>
+               <signed>T. D.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>P. 6. l. 5. r. <hi>pardoning.</hi> p. 7. l. 13. <hi>for Psal.</hi> r. <hi>P.</hi> p. 12. p. 25. <hi>after and</hi> r. <hi>the grand motive to it.</hi> p. 13. l. ult. <hi>blot of.</hi> p. 15. l. 26 <hi>blot cut by, and add, in the instance.</hi> p. 56. l. 13. <hi>after righteous add because.</hi> p. 29. r. <hi>score.</hi> p. 60. l. 13. <hi>after sense</hi>) r. <hi>that is.</hi> p. 19. r. <hi>Gospel.</hi> p. 65. l. 5. r. <hi>Tull.</hi> p. 67. l. 5. r. <hi>works.</hi> p. 70. l. 7. r. <hi>whereof.</hi> p. 78. l. 19. <hi>blot out is, before our.</hi> p. 80. l. 27. <hi>after ey<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> add, in the br<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sen Serpent.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:54685:9"/>
+            <head>A Friendly Conference BETWEEN A PAULIST AND A GALATIAN.</head>
+            <sp>
+               <speaker>Paulist.</speaker>
+               <p>WELL met Old Friend: It is as great a rarity to see you, as to see a <hi>Fly</hi> in the <hi>Winter</hi> time, What is the mat<g ref="char:EOLhyphen"/>ter that you decline my Company, which you formerly frequented?</p>
+            </sp>
+            <sp>
+               <speaker>Galatian.</speaker>
+               <p>To deal ingeniously with you, Difference in Opinion breeds some alie<g ref="char:EOLhyphen"/>nation in Affection. I am come off to the
+<pb n="2" facs="tcp:54685:10"/>
+                  <hi>New Methodists,</hi> and you adhere to the <hi>Old,</hi> in the Doctrine of Justification.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I do not approve of the Names you give each Party; for our difference is not in <hi>Method,</hi> but <hi>Doctrine.</hi> If they were to be <hi>Bishop'd (Confirm'd)</hi> I mean, and I might be <hi>Godfather.</hi> (for in <hi>Con<g ref="char:EOLhyphen"/>firmation, a New Name</hi> is sometimes given, which takes place of the Name given in <hi>Baptism</hi>) I would call the former <hi>Modern Galatians,</hi> the latter <hi>Old Paulists,</hi> and this <hi>Name,</hi> I am not ashamed to own. I am perfectly of our <hi>Saviours</hi> Judgment, <hi>No Man having drank Old Wine, straight way desireth New;</hi> for he saith, <hi>the Old is bet<g ref="char:EOLhyphen"/>ter,</hi> Luk. 5. <hi>ult.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>You do ill to <hi>Nick-Name</hi> us <hi>Ga<g ref="char:EOLhyphen"/>latians,</hi> and to challenge the Honour to your selves of being <hi>Paulists,</hi> which be<g ref="char:EOLhyphen"/>longs to us.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>If your Opinion be the same with the <hi>Galatians,</hi> I do but slander you with a <hi>Word of Truth;</hi> and that 'tis so, I shall prove in due time. As for the <hi>Honour</hi> you aspire to, I will as easily be<g ref="char:EOLhyphen"/>lieve you can shew me a <hi>black Swan</hi> (un<g ref="char:EOLhyphen"/>less on a Sign-post) as believe your Party to be <hi>Paulists</hi> in this Point of <hi>Justifica<g ref="char:EOLhyphen"/>tion;</hi> till you have proved, that <hi>Paul</hi> was for <hi>Justification by Works,</hi> who so
+<pb n="3" facs="tcp:54685:10"/>often, and so expresly denies it; And upon his Oath asserts, that, it was not his practice to eat his own Words; as <hi>God is true, Our Word toward you was not Yea, and Nay,</hi> 2 Cor. 1.18.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>
+                  <hi>Paul</hi> denies Justification by Works of the <hi>Law,</hi> but not by Works of the <hi>Gospel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But what if this be a <hi>Distinction</hi> without a <hi>Difference.</hi> I have been taught that the <hi>Gospel</hi> (strictly taken) is no <hi>Law,</hi> (and so hath no <hi>Works</hi>) but is on<g ref="char:EOLhyphen"/>ly a <hi>Set</hi> (as I may call it) of <hi>New Re<g ref="char:EOLhyphen"/>velations,</hi> (<hi>viz.</hi> of Christ's Person, Na<g ref="char:EOLhyphen"/>tures, Offices, Promises,) and <hi>New Ob<g ref="char:EOLhyphen"/>jects</hi> of Old Duties, and <hi>New Motives</hi> to inforce them. Even our Word, <hi>Gospel</hi> is as much, as <hi>Good-spell</hi> (or Speech) from the matter of it.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>It is no wonder that you are so ill taught, for <hi>Your Teachers are Vulgar and Unstudied Divines.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Good words Friend, my <hi>Teachers</hi> have been the <hi>First Reformers,</hi> and their <hi>Successors,</hi> and surely they do not merit such a <hi>Lessening Character,</hi> as you give them. And I have known the time, when you had other thoughts of them, you and I have been diligent readers of many of their Books, and were wont
+<pb n="4" facs="tcp:54685:11"/>to compare Notes with great Satisfaction. And we have been frequent hearers of some of them, as Arch-Bishop <hi>Usher,</hi> Bishop <hi>Reynolds,</hi> Dr. <hi>Goodwin,</hi> Dr. <hi>Owen,</hi> Mr. <hi>Nye,</hi> &amp;c. Mr. <hi>Vines,</hi> Mr. <hi>Anthony Burgess,</hi> Mr. <hi>Calamy,</hi> Mr. <hi>Jenkyns,</hi> Mr. <hi>Christopher Fowler,</hi> Mr. <hi>Charnock,</hi> &amp;c. And we embraced their <hi>Doctrine</hi> (which they agreed in, though they differed in their Judgments about <hi>Church Disciplines</hi> and <hi>Government</hi>) and what's the matter, that you have now forsaken it? I am well assured, that heretofore, you, as well as I, would have started at the mention of <hi>Justification by Works,</hi> and of a <hi>First</hi> and <hi>Second Justification.</hi> And we should have cried out, <hi>Popery, Popery</hi> with open mouth.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I think our <hi>Latter Divines</hi> have <hi>Cleared</hi> the Doctrine of Justification. And though they use the <hi>Popish Terms,</hi> their Sense is different.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I wish it may not appear, they have <hi>Muddied</hi> it rather; and that you may not be cheated with <hi>Old Boots</hi> new vamped, and coloured, instead of a <hi>New pair.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>You mean, (I suppose) that I shall have <hi>Popery</hi> imposed upon me in a <hi>Disguise.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:54685:11"/>
+               <speaker>Paul.</speaker>
+               <p>I will reserve my meaning to my self, till I have heard what difference you will assign between <hi>Their Doctrine</hi> and the <hi>Popish,</hi> when I make enquiry of you about it in the process of our Dis<g ref="char:EOLhyphen"/>course. Yet I shall tell you, that I often compare them to <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which are Several Kingdoms, but near borderers. (parted but by a small River) And yet sometimes, I check my self for so favourable an Opinion of them; when I remember what <hi>Calvin</hi> says, <hi>The Papists seem to themselves very acute, when they alledge, that they attribute nothing to Works, but by the Mediation of the Grace of Christ, as if the errour of the</hi> Galatians <hi>were any other, [viz.</hi> then that by the Grace of Christ they were Justified by Works;] <hi>for they did not believe they did either apostatize from Christ, or renounce his Grace,</hi> Calvin <hi>in Gal.</hi> 5.2.</p>
+               <p>But to leave these Altercations, let us now proceed to a Discussion of the Point wherein we differ, which is, <hi>Whether our good Works be the Condition of our Justifica<g ref="char:EOLhyphen"/>tion before God?</hi> You hold the <hi>Affirmative,</hi> we the <hi>Negative;</hi> and I will be <hi>Opponent,</hi> you the <hi>Respondent;</hi> but do you explain the terms of the <hi>Question,</hi> that there be no wrangling about them.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:54685:12"/>
+               <speaker>Gal.</speaker>
+               <p>By <hi>Good Works</hi> we mean, the <hi>Works of the Gospel;</hi> and done by the help of <hi>Special Grace:</hi> By <hi>Justification</hi> we in<g ref="char:EOLhyphen"/>tend, Acceptance of our Persons, as Righteous, and Pradoning all our Sins; <hi>before God,</hi> notes an Opposition to, <hi>be<g ref="char:EOLhyphen"/>fore Man:</hi> (mentioned <hi>Luke</hi> 16.15.) By <hi>Condition</hi> we understand according to the <hi>Lawyers</hi> Definition, (it being a Law Term) that is called a Condition untill the perfor<g ref="char:EOLhyphen"/>mance whereof, the Donor of any thing is not actually obliged to the Donation. [<hi>Navar.</hi> Enchyr. p. 482.]</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I consent to your Explications of the Terms of the Question (except that of the <hi>Subject</hi> of it, <hi>Good Works.</hi>)</p>
+               <p>And therefore I will first prove, That <hi>there are no Works of the Gospel,</hi> and so they cannot be the <hi>Condition</hi> of Justifica<g ref="char:EOLhyphen"/>tion; and next that, <hi>Works done by the help of special Grace, are not the Condition of our Justification.</hi>
+               </p>
+               <p n="1">1. I prove that <hi>There are no Gospel Works,</hi> and this I shall choose to do out of Mr. <hi>Anthony Burgess</hi>'s <hi>Vindiciae Legis,</hi> because his Lectures were Preached and Printed at the desire of the <hi>London</hi> Ministers, <hi>An.</hi> 1646. And Approved of as <hi>Judicious</hi> and <hi>Elaborate</hi> (as appears by their Testimony prefixed to the Book) And they were
+<pb n="7" facs="tcp:54685:12"/>Persons that understood Protestant Do<g ref="char:EOLhyphen"/>ctrine. 1. As to Faith, he says, <hi>The na<g ref="char:EOLhyphen"/>ture of Justifying Faith, was in</hi> Adam, <hi>though there was not such a particular Object, about which it might be exercised; for a thing may be, for the nature of it, and yet not have such a Name, which it hath from a certain Object which now is not; or from some Effects, which it cannot now produce. So Mercy and Grace was in God for the nature of it always, but as it hath a respect to a miserable Creature, that was not, till the Creature was made so,</hi> Psal. 139. 2. As to <hi>Repentance</hi> (he says) <hi>the Gospel (taken strictly) is not a Doctrine of Repentance; but comprehends no more, then the glad ti<g ref="char:EOLhyphen"/>dings of a Saviour.</hi> ibid. p. 262.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But Divines call <hi>Faith</hi> and <hi>Repen<g ref="char:EOLhyphen"/>tance</hi> the Two <hi>Evangelical Commands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Mr. <hi>Burgesse</hi> takes notice of this Objection, and Answers it, <hi>That then they use the Word more largely; for the Doctrine of Christ and the Apostles; but (in a strict sense) it's only a promise of Christ and his Benefits:</hi> And hence he adds, <hi>The Gospel doth not terrifie and accuse. Indeed there are woful Threatnings to him, that rejecteth Christ; yea, more severe, than to him, that rejected</hi> Moses, <hi>but this ariseth from the Law joyned in Practical use with the Gospel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:54685:13"/>
+               <speaker>Gal.</speaker>
+               <p>Is not Christ called a <hi>Law-giver,</hi> Isa. 33.22? And surely then <hi>Faith</hi> and <hi>Repentance</hi> must be <hi>his Laws?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p n="1">1. We deny him not to be such. And his institution of the Sacraments, Ministry, <hi>&amp;c.</hi> are sufficent ground for such <hi>Denomination.</hi>
+               </p>
+               <p n="2">2. As to the Instances you give, <hi>Christ</hi> Answers his Title, not by <hi>Enacting</hi> those Laws, but by <hi>Interpreting</hi> the first Com<g ref="char:EOLhyphen"/>mandment of the Moral Law, as con<g ref="char:EOLhyphen"/>taining them in it; (<hi>Interpreting</hi> or <hi>De<g ref="char:EOLhyphen"/>claring Law.</hi> (where there's any doubt of the Meaning) being an <hi>Act</hi> of the <hi>Le<g ref="char:EOLhyphen"/>gislative Power.</hi>) Hence <hi>Christ</hi> is said to come to <hi>Fulfil the Law,</hi> Matth. 5.17. where the Principal thing intended, is an <hi>Explication</hi> of it, as of larger extent, and more Spiritual, than the <hi>Pharisees</hi> imagined [see <hi>ver.</hi> 21.22, 27, 28.] and notable to this purpose is Christ's <hi>Expli<g ref="char:EOLhyphen"/>cation</hi> of the sum of the Second Table, <hi>Love to our Neighbour,</hi> as including <hi>Mercy</hi> to him, <hi>Mat.</hi> 20.27, 37. which Man in innocency was not under an <hi>Actual Ob<g ref="char:EOLhyphen"/>ligation to,</hi> for want of an <hi>Object, (viz.) Misery</hi> which is your <hi>Great Pretence</hi> for making <hi>Faith</hi> and <hi>Repentance New Gospel Laws</hi> (and which when you out with it, I shall Reply to.)</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:54685:13"/>
+               <speaker>Gal.</speaker>
+               <p>
+                  <hi>Faith</hi> is called <hi>A Law,</hi> Romans 3.27.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But not a <hi>New Law,</hi> or <hi>Gospel Precept.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>
+                  <hi>Believing</hi> is called <hi>God's Work,</hi> Joh. 6.29. and his <hi>Command,</hi> 1 Joh. 3.23.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I Answer, That Believing is a Commandment indeed (and so a Work) but whether it belongs to the <hi>Law</hi> or <hi>Gospel</hi> is not there determined.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>It is there determined by menti<g ref="char:EOLhyphen"/>oning a <hi>New Object, God's Son,</hi> Jesus Christ.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>That's not a sufficient Reason, you may as well say, That a <hi>New Visible Object,</hi> requires a <hi>New sight;</hi> or (which is more apposite) that a <hi>New Prophet</hi> required a <hi>New Law</hi> to Oblige Persons to believe him; whereas there was no more requisite to that end, than suflici<g ref="char:EOLhyphen"/>ent <hi>Evidence</hi> that he was a <hi>Prophet.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But in the Innocent State, Man needed not a Saviour, nor did the Law admit one. And how then that Law can oblige to believe in one, I cannot see.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Nor do I say, that Man was <hi>Actually obliged</hi> to believe in a <hi>Saviour,</hi> till he needed him. But that the same Law that Obliged <hi>Adam</hi> and his Posterity
+<pb n="10" facs="tcp:54685:14"/>to believe in God, obliged them to be<g ref="char:EOLhyphen"/>lieve in Christ when he was revealed. As for the Law's <hi>not admitting of a Savi<g ref="char:EOLhyphen"/>our,</hi> if you understand by that Term <hi>Law, the Covenant of Works</hi> we grant, that did not admit of a Saviour: But if you intend the <hi>Law</hi> precisely as a <hi>Rule of Faith,</hi> it admitted him to be the Object of Faith (as being the <hi>Great God,</hi> as well as our <hi>Saviour</hi> (as he is call<g ref="char:EOLhyphen"/>ed, <hi>Tit.</hi> 2.13.)</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But <hi>the Law is not of Faith,</hi> Gal. 3.12.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>True, but it is not said, that <hi>Faith is not of the Law, [i. e.</hi> a Duty to which the <hi>Law Natural</hi> or <hi>Moral</hi> binds us, upon the Revelation of a New Ob<g ref="char:EOLhyphen"/>ject God the Redeemer.] Yet (not to impose upon you) I must confess that Faith, is no more of the Law, than the Law of Faith in the sense of the Text, which is, that they are contrary to each other, in respect of the way of Justifica<g ref="char:EOLhyphen"/>tion (<hi>Viz.</hi> by our <hi>Own Righteousness,</hi> and by the Righteousness of <hi>another (Viz.</hi> Christ.)</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I will now beat you with your own Weapon; for if it be so, then the Faith that depends upon another's Righ<g ref="char:EOLhyphen"/>teousness, cannot be commanded by the
+<pb n="11" facs="tcp:54685:14"/>same Law, that required dependance up<g ref="char:EOLhyphen"/>on our own Righteousness.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I will wring it out of your hands, and beat you with it. There is no more Absurdity in this being a Du<g ref="char:EOLhyphen"/>ty of the Law, because of the <hi>Contrariety</hi> you alledge between the <hi>Objects</hi> of it in the <hi>Innocent</hi> and <hi>Nocent</hi> State of Man, than that <hi>Black</hi> and <hi>White</hi> being <hi>contrary Co<g ref="char:EOLhyphen"/>lours,</hi> should yet be the <hi>Object</hi> of the <hi>same Sense (Viz.)</hi> sight; or that <hi>Heat</hi> and <hi>Cold</hi> being <hi>contrary Qualities</hi> should be the <hi>Object</hi> of the <hi>same Sense</hi> of Feel<g ref="char:EOLhyphen"/>ing: or (to give an instance in Duties) that the same Natural Law <hi>(Viz.) Thou shalt Love thy Neighbour as thy self;</hi> that obliged <hi>Adam before his Fall,</hi> to love his Wife, when she was his <hi>Friend,</hi> should not oblige him, after his fall, to love her when she was become his <hi>Enemy,</hi> by betraying him to his Ruine.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>It cannot sink into my head, that <hi>Repentance</hi> should be a duty of the <hi>Law,</hi> because the <hi>Law</hi> did not admit of Repentance.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>If you mean, as a <hi>Condition of Life</hi> I <hi>grant</hi> it; But if you mean, <hi>as a Duty,</hi> I deny it; and I will give you a Reason from 1 <hi>John</hi> 3.8. which plain<g ref="char:EOLhyphen"/>ly imports, that the Devil was obliged
+<pb n="12" facs="tcp:54685:15"/>to repent, how else could impenitent sinners be said to be of <hi>the Devil,</hi> because they kept on in a course of sin (as he does) and sure the Devils obligation did not arise from the New <hi>Gospel Law,</hi> but from the Old <hi>Natural Law,</hi> so far as it was common to Men and Angels.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I never heard this Argument before, nor indeed can I answer it. But I believe our <hi>Divines</hi> can.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Consult them, and when we meet again, let me know their An<g ref="char:EOLhyphen"/>swer.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>
+                  <hi>Repentance</hi> was not consistent with a <hi>Sinless State,</hi> and how then could Man be under a Law to it.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The main <hi>Ingredients</hi> of <hi>Repen<g ref="char:EOLhyphen"/>tance</hi> were consistent with that State, as a <hi>Purpose</hi> of heart against Sin, and to continue in obedience and <hi>Hatred</hi> of sin, and a <hi>due sence of Sin, (viz.)</hi> of it in its own <hi>Nature</hi> (as a transgression of the Law of God) and in its <hi>Effects</hi> (Death being threatned to Sinners, <hi>Gen.</hi> 2.17.) and an <hi>Apprehension of the goodness of God,</hi> in present injoyments and future hopes, (for which latter, the <hi>Tree of Life,</hi> Gen. 3.22. gave ground sufficient) and why <hi>Sorrow for sin committed,</hi> and a <hi>purpose</hi> and endeavour of <hi>New Obedience</hi> from an <hi>Ap<g ref="char:EOLhyphen"/>prehension</hi>
+                  <pb n="13" facs="tcp:54685:15"/>of the Mercy of <hi>God in Christ</hi> should require a new Law, to oblige to them, I cannot understand. The Obser<g ref="char:EOLhyphen"/>vation of the <hi>First</hi> day of the Week in the times of the Gospel, hath no <hi>New Precept,</hi> because the <hi>Fourth Command</hi> ob<g ref="char:EOLhyphen"/>liges us, without one: The morality of the fourth Command lies not in keeping the <hi>Seventh</hi> day in order, but <hi>one day in Seven,</hi> and which of the <hi>Seven</hi> appears from Christ resting from the Work of Redemption (a greater Work than that of Creation) and advancing it by that rest, above all other days) and why then is there any need of a <hi>New Law</hi> to oblige us to Repentance, because of New Objects of those Duties, and New Arguments to inforce them?</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I am a little staggerd at your Ar<g ref="char:EOLhyphen"/>gumentation.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I wish you may be brought off by it to embrace the <hi>Old Truth;</hi> in or<g ref="char:EOLhyphen"/>der whereunto, I would have you con<g ref="char:EOLhyphen"/>sider; that if your <hi>Arguments</hi> are of any weight to prove <hi>Faith</hi> and <hi>Repentance, New Laws</hi> of the <hi>Gospel,</hi> then they may be extended to our <hi>Love</hi> to God as <hi>Re<g ref="char:EOLhyphen"/>deemer,</hi> to Prayer to, and Meditation on him, <hi>as such,</hi> to <hi>Love</hi> the Saints as <hi>Be<g ref="char:EOLhyphen"/>lievers</hi> of, and <hi>Penitents,</hi> and Love to
+<pb n="14" facs="tcp:54685:16"/>our Enemies, Mercy to the Miserable, Patience under Afflictions; Hope and Joy in the prospect of a good Issue of them, <hi>&amp;c.</hi> For <hi>Innocent Man</hi> was not under an <hi>Actual Obligation</hi> to those Du<g ref="char:EOLhyphen"/>ties, as being <hi>Inconsistent with his State.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Though I do not remember that our Divines do apply the same Argu<g ref="char:EOLhyphen"/>ments to these Duties, that they do to <hi>Faith</hi> and <hi>Repentance,</hi> yet I cannot deny, but they are applicable. But what will you infer from my grant?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Stay a little for my Answer. Is <hi>Faith</hi> and <hi>Repentance,</hi> and those other Duties now mentioned the <hi>utmost bounds</hi> of your <hi>New Gospel Law?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I cannot say so. We make <hi>Love and its Works the condition of Justification;</hi> and so <hi>Branches</hi> of the <hi>New Gospel Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Now I will answer your Questi<g ref="char:EOLhyphen"/>on. I infer from your <hi>First Grant,</hi> that the <hi>New Law</hi> hath incroached upon the <hi>Old,</hi> as the Sea does sometimes upon the Land. The <hi>Old</hi> (<hi>i. e.</hi> the <hi>Natural</hi> or <hi>Moral Law</hi>) did once oblige to love God, pray to, and meditate on him, as a <hi>Creator</hi> and <hi>Friend;</hi> but now God is become a <hi>Redcemer,</hi> a <hi>Reconcil'd Foe;</hi> the Old Law is <hi>Vacated,</hi> as to those duties to him under those <hi>New Relations</hi> men<g ref="char:EOLhyphen"/>tioned
+<pb n="15" facs="tcp:54685:16"/>(wherein he now stands) which methinks is as absurd, as if that Law which obliges me to love my <hi>Friend,</hi> whilst a <hi>Single</hi> Man, should cease its Obligation when he is <hi>Married.</hi> Again, From your <hi>Second Concession</hi> I infer, That your <hi>New Law</hi> hath served the <hi>Old,</hi> as <hi>Aaron</hi>'s <hi>Rod did the Magicians Rods, swal<g ref="char:EOLhyphen"/>low them all up,</hi> Exod. 7.12. And where<g ref="char:EOLhyphen"/>as the <hi>Socinians</hi> make Christ to <hi>add</hi> some <hi>New Precepts</hi> to the <hi>Old Law;</hi> ye <hi>Galati<g ref="char:EOLhyphen"/>ans</hi> make him to <hi>take away</hi> all the Pre<g ref="char:EOLhyphen"/>cepts from the <hi>Old,</hi> to Constitute his <hi>Own New Law.</hi> This is worse then <hi>Rob<g ref="char:EOLhyphen"/>bing</hi> Peter, <hi>to pay</hi> Paul; (as our Proverb hath it) this is Robbing <hi>God</hi> to pay <hi>Christ:</hi> a <hi>Robbery</hi> which <hi>Christ</hi> disclaims, <hi>Matth.</hi> 5.17. and our Patron <hi>Paul,</hi> Rom. 3. last.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But we acknowledge the Old Law in force, as a <hi>Rule</hi> of Duty.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Very good: Though I do not see how the same Precepts should belong to the Old and New Law at the same time. (For by calling the Gospel Law, a <hi>New Law,</hi> ye make the first <hi>Old. Now that which decayeth and waxeth Old, is ready to vanish away,</hi> to borrow the ex<g ref="char:EOLhyphen"/>pression used of the <hi>Old</hi> and <hi>New Testa<g ref="char:EOLhyphen"/>ment</hi> Dispensations, <hi>Heb.</hi> 8. last.) But
+<pb n="16" facs="tcp:54685:17"/>that which I conclude with, upon your acknowledgment, is, that if besides the proper Precepts of the <hi>New Law;</hi> those of the <hi>Old Law are adopted into your New Law,</hi> as a Condition of Justification; then <hi>the Covenant of Grace is properly and strict<g ref="char:EOLhyphen"/>ly a Covenant of Works, and even of Works or Deeds of the Law,</hi> which the Apostles denies, <hi>Rom.</hi> 3.28. and you your self a while since. And this will be yet more evident, if your <hi>New Law</hi> hath its <hi>Threat<g ref="char:EOLhyphen"/>nings.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I cannot yet conceive, but that the <hi>Gospel</hi> hath <hi>Threatnings,</hi> for the <hi>Dam<g ref="char:EOLhyphen"/>nations</hi> of Unbelievers, as well as the <hi>Salvation</hi> of Believers, is called the <hi>Gospel,</hi> (which the Apostles were to Preach) <hi>Mark</hi> 16.15, 16.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>
+                  <hi>Damnation</hi> is part of the <hi>Doctrine</hi> Preached by the Apostles. But that it is not part of the Gospel, may be gathered from <hi>Rom.</hi> 6. last, <hi>The wages of Sin is Death; but the gift of God is Eternal Life, through Jesus Christ our Lord.</hi> Which <hi>Op<g ref="char:EOLhyphen"/>position</hi> sounds to this sense, that the <hi>Threats</hi> of the <hi>Law</hi> assign deserved <hi>Dam<g ref="char:EOLhyphen"/>nation,</hi> the <hi>Promise</hi> of the <hi>Gospel</hi> undeser<g ref="char:EOLhyphen"/>ved <hi>Salvation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But the Gospel hath its Threats only against <hi>Final Unbelief,</hi> and <hi>Final Im<g ref="char:EOLhyphen"/>penitency.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:54685:17"/>
+               <speaker>Paul.</speaker>
+               <p>Surely then it is very Partial; for every act of Unbelief and Impenitency is a sin, and so deserves Damnation: And why then should those Acts escape its threats; and if the <hi>Gospel</hi> does not threaten them, then the <hi>Law</hi> must, <hi>For the wages of Sin</hi> (a single Sin not con<g ref="char:EOLhyphen"/>tinued in) <hi>is Death;</hi> (as you heard but now) and then it will follow, that <hi>Unbelief</hi> and <hi>Impenitency</hi> are Sins against the <hi>Law;</hi> because it cannot threaten what is not a Transgression of it. And so the consequence of your <hi>Assertion</hi> will prove its irreparable ruine.</p>
+               <p>Again, I argue thus; If the <hi>Gospel</hi> hath no <hi>Threats</hi> against <hi>Defects</hi> in Faith and Repentance, then such Defects are no Transgression of this <hi>New Law.</hi> (For if they were, it would threaten them, as well as <hi>final Unbelief,</hi> and <hi>final Impeniten<g ref="char:EOLhyphen"/>cy.</hi>) And if so, then it will follow; either that you are not to Pray for the Pardon of them, or Power against them: Or if you do, (and think you are bound to do it) you must acknowledg, they are breaches of the <hi>Old Law,</hi> the Moral Law, which as the rule of Practice re<g ref="char:EOLhyphen"/>quires the perfection of every Act it in<g ref="char:EOLhyphen"/>joyns.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:54685:18"/>
+               <speaker>Gal.</speaker>
+               <p>Christ proceeds in executing his Kingly Office in his Church according to the <hi>Threatnings</hi> of the <hi>Gospel,</hi> and sure<g ref="char:EOLhyphen"/>ly Men are not turned over to the Law for Punishment for Sins against the Go<g ref="char:EOLhyphen"/>spel.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The Gospel cannot threaten <hi>greater</hi> Evils for <hi>Kind,</hi> than the Law doth; and therefore I may say of the Gospel, compared with the Law in its Threatnings, as <hi>Solomon,</hi> of any other Man compared with himself; <hi>What can the Man do that cometh after the King; even that which hath been already done,</hi> Eccles. 2.12. And therefore though Christ be King of the Church, he can<g ref="char:EOLhyphen"/>not punish, but according to the threats of the Law. As for Sins against the Gospel, we know no such Sins. (as hath been said) And I add, that so extensive is the first Command of the Moral Law, that <hi>Trusting</hi> in the Lord <hi>Jehovah</hi> (that is <hi>Christ,</hi>) <hi>Isa.</hi> 26.4. is a branch of the duties required in it, and <hi>Gospel Unbelief</hi> (which is stiled <hi>A departure from the Living God,</hi> Heb. 3.12. (a Title agree<g ref="char:EOLhyphen"/>ing to Christ) is a Sin forbidden by that command; and the acknowledging God to be <hi>Our God,</hi> Deut. 26.17. and the not avouching him for <hi>Our God,</hi> Psal. 81.11.
+<pb n="19" facs="tcp:54685:18"/>is comprehended under the <hi>Affirmative</hi> and <hi>Negative</hi> of that Commad. (see <hi>As<g ref="char:EOLhyphen"/>sembly Catechism</hi>) Again, <hi>Inventors of evil things</hi> are Sinners against the Moral Law, <hi>Rom.</hi> 1.30. (for that was the Law which the <hi>Roman Gentiles</hi> were under) And if unnatural Lusts (partly intended in that Phrase) though not mentioned in the Seventh Commandment were in<g ref="char:EOLhyphen"/>cluded under it; I cannot see why the <hi>Rejection</hi> of Grace offered to <hi>Sinners</hi> (<hi>an evil thing invented by</hi> Cain, <hi>Heb.</hi> 11.4.) as well as the <hi>Rejection</hi> of Grace offered to <hi>Innocent Man;</hi> the slighting of the <hi>Re<g ref="char:EOLhyphen"/>covery</hi> of Gods favour to the one, as well as of the <hi>Continuance</hi> of it to the other, should not be included in the <hi>First Com<g ref="char:EOLhyphen"/>mandment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But Sins against the <hi>Gospel</hi> are threatned with <hi>greater Punishment</hi> than Sins against the <hi>Law, Mat.</hi> 11.22.24.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Your Argument supposes that the same Law cannot make a difference, as to degrees of Punishment, for greater or lesser breaches of it, the mistake whereof will appear by <hi>Adams</hi> laying the blame of his own sin in eating the forbidden Fruit, upon his <hi>Wife,</hi> and up<g ref="char:EOLhyphen"/>on <hi>God,</hi> (as he does obliquely, <hi>Gen.</hi> 3.12.) which were breaches of the <hi>same</hi> Natural
+<pb n="20" facs="tcp:54685:19"/>
+                  <hi>Law,</hi> yet the <hi>Latter</hi> was greater than the <hi>Former,</hi> because <hi>God is greater than Man,</hi> Job 33.12. And so it was punish<g ref="char:EOLhyphen"/>able with more severity. And therefore (by a parity of Reason) though the <hi>Rejection</hi> of <hi>God</hi>'s <hi>Offer</hi> of <hi>Reconciliation</hi> to <hi>Fallen Man,</hi> who had given the Offence, be a greater sin, than the <hi>Rejection</hi> of his offer of continuing <hi>Friendship</hi> with <hi>Inno<g ref="char:EOLhyphen"/>cent Man</hi> (abiding such) yet they may be Sins against the same Law, and by it, one punished with greater Punishment than the other, and so there's no need of a <hi>Gospel Law</hi> to assign greater Punish<g ref="char:EOLhyphen"/>ments to <hi>Gospel Sins,</hi> (as you imagine) for if the <hi>Natural Law</hi> given to <hi>Adam</hi> did not, yet (at least) the <hi>Moral Law</hi> given to his Posterity on Mount <hi>Sinai</hi> may suffice for that end.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But why do you distinguish be<g ref="char:EOLhyphen"/>tween those Laws? I thought they had been but the same Law, in your Judg<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Yes, so they are for substance, but yet there is this difference; that the <hi>Former</hi> did but <hi>Implicitely</hi> injoyn that Faith and Repentance which ye account the <hi>special</hi> and <hi>proper Gospel Laws:</hi> But the <hi>Latter Law</hi> does <hi>Explicitely</hi> injoyn them, as being suitable <hi>to,</hi> And so the
+<pb n="21" facs="tcp:54685:19"/>
+                  <hi>Present Duties of the Lapsed State,</hi> (as I proved even now) the Gospel (as oppo<g ref="char:EOLhyphen"/>sed to either of those Laws (as I have distinguished them) does but reveal a <hi>New Object</hi> of those duties, a <hi>Redeemer</hi> the Object of <hi>Faith,</hi> and <hi>Sin Committed,</hi> the Object of <hi>Repentance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I do not remember that I have heard divers of the things you alledge in this point.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But they are either those which I have had from the eminent Divines a<g ref="char:EOLhyphen"/>bove mentioned, (which stick like <hi>Pitch</hi> to my memory,) or they are easie and natural Deductions in my opinion, from their Doctrine. But before we go off this Point, I shall acquaint you with the late <hi>Rise,</hi> or <hi>Revival</hi> rather of this con<g ref="char:EOLhyphen"/>troversie, and thence with the <hi>Danger</hi> in a mistake about it. (not yet mentioned,) The <hi>Rise</hi> was from <hi>Arminius,</hi> who pre<g ref="char:EOLhyphen"/>tended that <hi>Adam</hi> had not <hi>Power</hi> of be<g ref="char:EOLhyphen"/>lieving in Christ, and that therefore we could not lose in <hi>Adam</hi> what he had not.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But what Arguments did he urge for the proof of his Assertion?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>That <hi>Adam</hi> in innocency had no need of believing in Christ. That Faith was not commanded by the Law,
+<pb n="22" facs="tcp:54685:20"/>and therefore <hi>Adam</hi> was not bound to believe; for the Law only was given to him, and that none could believe but a Sinner.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>These are our very Arguments. I could not have thought that our <hi>Israelites</hi> had been forced to go down to the <hi>Phi<g ref="char:EOLhyphen"/>listines</hi> to sharpen their Weapons. But are you sure of this you affirm?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I read it in the Learned <hi>Peter du Moulin's Anatomy of Arminianism,</hi> c. 11. and I have read the same Arguments in Mr. <hi>Anthony Burgesse</hi> (before cited) and heard them cited as <hi>Arminian Arguments</hi> by divers of our <hi>Pauline Divines;</hi> and if you doubt my veracity, you may read the Authors I name, and enquire of your own Divines.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But what did <hi>Arminius</hi> infer from his Positions which you cite?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>That <hi>God is bound to give all Men power to believe on Christ,</hi> &amp;c. And this <hi>Moulin</hi> calls an <hi>Impious Opinion;</hi> and says, that seeing he intends the denial of <hi>Adams</hi> power to believe, <hi>&amp;c.</hi> For the establishment of it; therefore this Questi<g ref="char:EOLhyphen"/>on is not of small moment, nor to be perfunctorily handled.</p>
+            </sp>
+            <sp>
+               <pb n="23" facs="tcp:54685:20"/>
+               <speaker>Gal.</speaker>
+               <p>But pray what's the <hi>Danger</hi> in our mistake about the Gospel's being a New Law?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>That ye may dash upon <hi>Armi<g ref="char:EOLhyphen"/>nius</hi>'s <hi>Rock,</hi> make the same wretched in<g ref="char:EOLhyphen"/>ference that you heard but now from it: But enough of this Question. The next thing that I am to oppose is that <hi>Works done by Grace, are the Condition of our Justification.</hi>
+               </p>
+               <p>
+                  <hi>Argument.</hi> 1. No Works are the con<g ref="char:EOLhyphen"/>dition of our-Justification, therefore not Works done by Grace. The <hi>Antecedent</hi> is evident, for the Apostle excludes from Justification <hi>Works,</hi> without any Epithite, <hi>Rom.</hi> 4.2, 6. and <hi>Deeds</hi> [or Works] of the <hi>Law,</hi> Chap 3.20, 27.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But that latter Phrase limits the former to that kind of Works.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>It hath been proved, that all Works are Works of the Law (and there<g ref="char:EOLhyphen"/>fore I wave any farther Discourse about <hi>Gospel Works,</hi> (as your Phrase is) only I shall suggest; that if the <hi>Apostle</hi> had un<g ref="char:EOLhyphen"/>derstood and intended such a difference of Works in relation to Justification, an <hi>Hint</hi> of that would soon have put an end to the controversie.</p>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:54685:21"/>
+               <speaker>Gal.</speaker>
+               <p>He hath <hi>Hinted</hi> it when he calls <hi>Faith a Law,</hi> and opposes it to the <hi>Law of Works,</hi> Rom. 3.27. And our Lord himself, when he calls <hi>Believing the Work of God,</hi> John. 6.29.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>
+                  <hi>Calvins</hi> Answer to the first Scrip<g ref="char:EOLhyphen"/>ture is sufficient, That <hi>the name of a Law is impropely given to Faith which yet does not darken the Apostles meaning, which is as if he had said, the Righteousness of Works is commended in the Law; but Faith hath its own Law, which admits of no Righteous<g ref="char:EOLhyphen"/>ness in Works of any sort whatsoever.</hi> And <hi>Beza,</hi> on the place (as I have heard him quoted) says, <hi>The Apostle seems for the nonce to imitate the Jews Phrase, who were Adversaries of Grace, and had always the Name of the Law in their Mouths;</hi> as to the other Scripture <hi>Hutcheson</hi>'s Answer [in his Exposition on <hi>John</hi>'s Gospel] is very full. <hi>Christs calling Faith a Work doth not import that Faith as a Work doth justifie (for it is only the hand to receive Christ who is our Righteousness.) But he gives it this Name, speaking in their terms who doted on Works.</hi> And even <hi>Camero</hi> (who is cryed up by your party) after his <hi>Explication</hi> of <hi>John</hi> 6.29. to the same sense with <hi>Beza</hi> and <hi>Hutcheson,</hi> adds; <hi>The Scripture always opposeth Faith to Works
+<pb n="25" facs="tcp:54685:21"/>in the business of Justification. For Faith gives nothing to God, but only receives; but Works are, (as it were) Sacrifices of Thanksgiving, which we offer to God, for Faith is the Organ (or Instrument) and as it were the Souls hand whereby we receive Gods Benefits,</hi> Praelect in <hi>Matth.</hi> 16.17. and <hi>p.</hi> 48. and hence I argue, That if Faith and Works are still opposed to each other in the business of Justification then <hi>Faith, is opposed to it self, as a Work</hi> [or act of Obedience to the command of Believing] conceive it thus, we may say of a <hi>Beggar,</hi> and of an <hi>Handycrafts Man,</hi> they have nothing but what they get by their <hi>Hands.</hi> But in a different sense, the former, as he <hi>receives</hi> what is given him: the other as he <hi>earns</hi> by his Work, his Bread before he eats it. Otherwise the Apostles <hi>Opposition</hi> of <hi>Faith</hi> and <hi>Works</hi> would be as <hi>Illogical,</hi> as this; we live by <hi>Bread,</hi> not by <hi>Food;</hi> (which latter in cludes the former) Bread being one kind of Food.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But Love is a condition of Par<g ref="char:EOLhyphen"/>don, (a branch of Justification) as ap<g ref="char:EOLhyphen"/>pears by, <hi>Luk.</hi> 7.47.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>All that can be concluded from that Scripture, is, that much <hi>Love,</hi> is an <hi>Effect,</hi> (and so a <hi>Sign,</hi>) not a <hi>Cause</hi> or
+<pb n="26" facs="tcp:54685:22"/>
+                  <hi>Condition</hi> of forgiving many Sins, see <hi>ver.</hi> 42.4<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and this I shall prove from the Learned <hi>Pinck</hi> (whom one of your party flurts at, but confutes not his interpretati<g ref="char:EOLhyphen"/>on) <hi>I would alter one word in our Translation, BECAUSE into THEREFORE, the sense requires this Construction; because the whole scope of the Parable is to shew, that he loves most to whom most is forgiven, and not contrarily, that most is forgiven to him that loves most,</hi> &amp;c. <hi>The conjunction</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>admits it; for albeit not in the pure Greek Idiom, yet in the Hellenestick use of it, it so signi<g ref="char:EOLhyphen"/>fies,</hi> &amp;c. [<hi>Trial of sincere Love to Christ,</hi> Ser. <hi>on</hi> Eph. 6.24. <hi>p.</hi> 12.13.] And <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> and other Protestant Divines gave the same Interpretation before <hi>Pink.</hi> And I am told, that the Learned <hi>Mede</hi> and <hi>Hammond,</hi> (who were great Criticks) do give Instances in Scripture, where the Greek word is taken for <hi>therefore</hi> (and are quoted by Mr. <hi>Pools Latin Synopsis,</hi> on <hi>Luk.</hi> 7.47.)</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Our Saviour after all these ex<g ref="char:EOLhyphen"/>pressions of Love from the Penitent Wo<g ref="char:EOLhyphen"/>man, tells her, that her sins are forgiven her, [<hi>ver.</hi> 48.]</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Mr. <hi>Pink</hi> makes the Objection in these Words, and Answers; <hi>This was but that Sentence of Absolution for her grea<g ref="char:EOLhyphen"/>ter
+<pb n="27" facs="tcp:54685:22"/>comfort and assurance outwardly pronoun<g ref="char:EOLhyphen"/>ced, of which no doubt but she had before some gracious inklings within, and the ver<g ref="char:EOLhyphen"/>tue whereof she had already tasted, though not in that comfortable measure, or di<g ref="char:EOLhyphen"/>stinct manner as she desired, [Pink,</hi> Ibid. p, 13. 14.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I acknowledge this Scripture, is as insignificant to our cause, as a <hi>Cypher</hi> without a Figure in <hi>Numeration.</hi> But we can instance in an other <hi>Grace</hi> which is so expresly made a condition of for<g ref="char:EOLhyphen"/>giveness, as that you cannot elude it, <hi>(viz.) Repentance,</hi> Acts 5.31.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I Answer, 1. That if Faith <hi>as a Work,</hi> be excluded from being a Condi<g ref="char:EOLhyphen"/>tion of Justification (as I proved before) then <hi>Repentance</hi> which cannot be consi<g ref="char:EOLhyphen"/>dered otherwise than as a <hi>Work,</hi> cannot be admitted. 2. (which is a confirma<g ref="char:EOLhyphen"/>tion of the first Answer) by <hi>Faith</hi> we <hi>receive forgiveness</hi> of Sins, <hi>Acts</hi> 26.18. by <hi>Repentance</hi> we <hi>Work</hi> for it, (whereas God does <hi>Frankly forgive Sinners,</hi> Luk. 7.42.)</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>The Words by <hi>Faith</hi> are joyned to <hi>Sanctified</hi> in the Text, not to re<g ref="char:EOLhyphen"/>ceive.</p>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:54685:23"/>
+               <speaker>Paul.</speaker>
+               <p>But. 1. <hi>Calvin</hi> refers those words to the other clauses foregoing, and makes the sense to be that <hi>By Faith we possess all the good things offered in <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Gospel;</hi> and <hi>Beza</hi> puts a <hi>Comm<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> after <hi>Sanctified;</hi> and affirms that <hi>He found it so in Old Greek Copies of the New Testament</hi> (as I have been told by our Divines) 2. If I grant you the benefit of our <hi>Translation what you get by it, you may put in your eyes, and see never the worse,</hi> for then <hi>Repentance</hi> (being a branch of Sanctification) must be <hi>after Justifica<g ref="char:EOLhyphen"/>tion</hi> (and so not <hi>before</hi> it) and so not a <hi>condition</hi> of it) It being a received <hi>Rule</hi> in Divinity, that <hi>Justification is in order of nature before Sanctification,</hi> as this is op<g ref="char:EOLhyphen"/>posed to <hi>Regeneration;</hi> this latter term noting those gracious <hi>Habits</hi> which are <hi>infused together;</hi> that former, the <hi>Acts</hi> of the Habits, which [Acts] are drawn out by Faith's laying hold on Christ as a <hi>Sanctifier:</hi> And this is intimated, <hi>Luke</hi> 17.5. where Disciples beg not an <hi>increase</hi> of their <hi>Love,</hi> but of their <hi>Faith,</hi> that they might forgive their offending Brother.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>The mention of <hi>Forgiving an of<g ref="char:EOLhyphen"/>fending Brother,</hi> puts me in mind of a Duty which is made a <hi>Condition</hi> of Gods for<g ref="char:EOLhyphen"/>giveness, <hi>Mat.</hi> 6.14.</p>
+            </sp>
+            <sp>
+               <pb n="29" facs="tcp:54685:23"/>
+               <speaker>Paul.</speaker>
+               <p>Else where <hi>God's forgiveness</hi> of us is made a <hi>Motive</hi> to our forgiveness of others, <hi>Eph.</hi> 4. last, which supposes a <hi>Precedency</hi> of Gods Act to ours, and also of our <hi>Apprehension</hi> of it. And therefore our forgiveness cannot (strictly speaking) be a <hi>Condition of God's.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Why then does Christ use that form of Words which seems to import, that 'tis a <hi>Condition</hi> of it?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Because <hi>our forgiveness</hi> is an <hi>In<g ref="char:EOLhyphen"/>separable effect</hi> and <hi>Indubitable sign</hi> of that <hi>Faith</hi> by which we obtain <hi>Gods forgiveness,</hi> and so we say that the Promise is not made to the <hi>Effect</hi> produced, but to the <hi>Cause</hi> producing it; not to <hi>Our forgiveness</hi> of others, but to the <hi>Faith</hi> it self (as a good Tree bringing forth that good fruit) and the same Answer we give to those passages of Scripture, which seem to make <hi>Repentance</hi> a Condition of forgive<g ref="char:EOLhyphen"/>ness; which I may illustrate by <hi>Mark</hi> 7.29. compar'd with <hi>Matth.</hi> 15.28. it was not the Womans <hi>Saying,</hi> that ob<g ref="char:EOLhyphen"/>tained her Childs cure, but the <hi>Faith</hi> whereof that <hi>Saying</hi> was a <hi>Sign</hi> and <hi>Effect.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Your <hi>Distinction</hi> between <hi>Faith</hi> and <hi>its effects</hi> with respect to Justificati<g ref="char:EOLhyphen"/>on is groundless. We say that <hi>Faith</hi> may
+<pb n="30" facs="tcp:54685:24"/>called the <hi>only condition</hi> of the New Co<g ref="char:EOLhyphen"/>venant, because all the rest are reducible to it, either as being <hi>Presupposed</hi> as neces<g ref="char:EOLhyphen"/>sary <hi>Antecedents</hi> or means; or <hi>contained</hi> in it, as its parts, or properties, or mo<g ref="char:EOLhyphen"/>difications, or else <hi>Implied,</hi> as its imme<g ref="char:EOLhyphen"/>diate product, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Though the last, the <hi>product</hi> [or effect] of Faith be to our present pur<g ref="char:EOLhyphen"/>pose, yet I would ask you for an instance of <hi>Antecedents</hi> to Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Repentance from dead works, Godly sorrow, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I see one may live and learn. I had thought they had been <hi>Effects,</hi> and so <hi>Consequents of Faith.</hi> I have learned, that <hi>without Faith 'tis impossible to please God,</hi> Heb. 11.6. But if your Notion be right, I must unlearn it again. For sure, he that hath <hi>fulfilled a condition of the Covenant of Grace pleases God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>No such matter, we say, there must be a concurrence of all <hi>Duties</hi> to make up the conditions, which have a promise of <hi>Life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I suppose by <hi>Life,</hi> you mean (at least in part) <hi>Justification of Life,</hi> Rom. 5.18. (or else you speak not to the Question in hand) and if so, then even with <hi>Faith</hi> it is impossible to please God;
+<pb n="31" facs="tcp:54685:24"/>because, that is but one <hi>Condition more;</hi> or in other words we are not justified by <hi>Faith alone,</hi> but by <hi>Works too.</hi> But pray what are the things <hi>Contained</hi> in Faith, as a part.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Love of Christ above all.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>We Judge that <hi>Grace</hi> to be an <hi>Effect</hi> of Faith by warrant from <hi>Gal.</hi> 5.6. <hi>Faith worketh by Love. The Apostle makes Love (as it were) Faiths Instrument, by which it works, and who knows not the Instrument hath its Force, Motion and Action, not from it self; but from the Workman.</hi> [So <hi>Luther</hi> ap<g ref="char:EOLhyphen"/>positely on the place] Faith blows the fire of Love, and then uses it as occasion serves. I have asked you these Questi<g ref="char:EOLhyphen"/>ons, that by convincing you of your <hi>mistakes</hi> in your Answers, you may <hi>sus<g ref="char:EOLhyphen"/>pect the rest of your Notions.</hi> I have but one Question more: What are the <hi>Pro<g ref="char:EOLhyphen"/>ducts</hi> of Faith?</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Sincere Obedience and Works of Love.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>How these, which are <hi>after</hi> Justi<g ref="char:EOLhyphen"/>fication, not only in order of <hi>Nature,</hi> but in <hi>Time</hi> should be a <hi>Condition</hi> of <hi>Justi<g ref="char:EOLhyphen"/>fication,</hi> is hard to conceive.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I wonder at your dulness, we di<g ref="char:EOLhyphen"/>stinguish between a first and <hi>Second Justi<g ref="char:EOLhyphen"/>fication,</hi> the <hi>first</hi> whereof, is upon <hi>meer
+<pb n="32" facs="tcp:54685:25"/>Faith,</hi> the latter is upon <hi>Sincere Obedience and Perseverance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>If I be <hi>dull,</hi> I think you are not very <hi>sharp,</hi> (if I may judge by your <hi>Di<g ref="char:EOLhyphen"/>stinction</hi>) for I cannot find either <hi>Name</hi> or <hi>Thing</hi> of a <hi>Second Justification</hi> in Scrip<g ref="char:EOLhyphen"/>ture: But I have found a place that baf<g ref="char:EOLhyphen"/>fles it, <hi>Rom.</hi> 1.17. <hi>Therein [viz.</hi> in the Gospel, <hi>v.</hi> 16.] <hi>the Righteousness of God,</hi> [by which a Sinner is made Righteous to Justification, so called in opposition to <hi>Mans righteousness,</hi> whereof he is the <hi>Sub<g ref="char:EOLhyphen"/>ject</hi> or <hi>Agent,</hi> Rom. 10.3. and because <hi>inherent</hi> in and <hi>performed</hi> by him who is <hi>God (viz.)</hi> Christ, 1 <hi>Cor.</hi> 10.30.] is <hi>Re<g ref="char:EOLhyphen"/>vealed</hi> [in opposition to Natural Know<g ref="char:EOLhyphen"/>ledge, (there being no <hi>Natural Christianity,</hi> though there be a <hi>Natural Theology</hi>] which term includes an exhibition of it (as <hi>Gal.</hi> 3.23.) whence the <hi>Gospel</hi> is called, <hi>A Ministration of Righteousness,</hi> 2 Cor. 3.9.] <hi>From Faith to Faith</hi> [there seems to be a word wanting to make up the sense <hi>(viz) To be</hi> [as <hi>Jam.</hi> 2.5. <hi>To be rich in Faith</hi> (for Faith is not the cause but ef<g ref="char:EOLhyphen"/>fect and end of Election] and the mean<g ref="char:EOLhyphen"/>ing is, to shew what <hi>Justifying Righteous<g ref="char:EOLhyphen"/>ness</hi> he calls <hi>Gods,</hi> and is <hi>revealed</hi> in the <hi>Gospel (viz.)</hi> that Righteousness [not which is <hi>begun</hi> by <hi>Faith,</hi> and <hi>carried</hi> on
+<pb n="33" facs="tcp:54685:25"/>by <hi>Works,</hi> but] which Justifies us first and last only by Faith; as for the Phrase <hi>from Faith to Faith</hi> ['tis paralel to, <hi>from Glory</hi> to <hi>Glory,</hi> 2 Cor. 3. last] and 'tis in<g ref="char:EOLhyphen"/>tended to note, that the growth of Faith for Justification, will take rise from the more distinct apprehension of the need of Gods Righteousness only, for that end] <hi>For the just shall live by Faith,</hi> [cited out of <hi>Habb.</hi> 2.4.] which words prove out of the <hi>Old Testament,</hi> the Doctrine of Justification by Faith, asserted in the <hi>New.</hi> And both the Hebrew and the Greek are ambiguous, and may be ren<g ref="char:EOLhyphen"/>dred, either <hi>The Just by Faith shall live,</hi> or (as our version) <hi>The Just shall live by Faith.</hi> If we take the former <hi>Version,</hi> then the consequence is evident, he that is just by <hi>Faith,</hi> is not <hi>Just</hi> [and so nor lives] <hi>by Works.</hi> If the <hi>latter,</hi> he that <hi>lives</hi> by Faith must needs be supposed <hi>Just</hi> by it first; because the same Righ<g ref="char:EOLhyphen"/>teousness received by Faith, gives right to Justification and Salvation. I have been the longer upon this, because your <hi>Errour</hi> herein is very <hi>Gross.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>'Tis well you call <hi>Whore</hi> first; for if you had not been <hi>too quick</hi> for me, I should have told you, that your opinion, that justifying Faith, as justifying, doth
+<pb n="34" facs="tcp:54685:26"/>consist in any <hi>one single Act,</hi> is a <hi>wretched mistake.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But I am well assured, that it is an <hi>happy Truth:</hi> And this I will evince.</p>
+               <p n="1">1. From your own <hi>Concession</hi> but now, that the <hi>First</hi> Justification is upon <hi>meer Faith,</hi> which is a single Act <hi>(viz.)</hi> an <hi>Acceptance of Christ</hi> as our Righteousness to Justification. As for the <hi>Second</hi> Justifi<g ref="char:EOLhyphen"/>cation, I am content it should be left to the wide World to shift for it self.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>You mistake our term <hi>meer Faith,</hi> we understand it, of Faiths <hi>immediate receiving Christ</hi> as <hi>King</hi> and <hi>Prophet,</hi> (and in so doing to justifie,) as well as the re<g ref="char:EOLhyphen"/>ceiving him as <hi>Priest.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>This Answer may well have the name <hi>Legion;</hi> I will not say, for the many <hi>Devils</hi> but <hi>Errours,</hi> that it contains for.</p>
+               <p n="1">1. Suppose we grant your notion of <hi>Justifying Faith, as such;</hi> that it hath <hi>Christ</hi> in all <hi>his Offices</hi> for its <hi>Object.</hi> How can faith <hi>Immediately</hi> receive Christ as <hi>King</hi> and <hi>Prophet?</hi> when as the receiving of him as <hi>Priest,</hi> must needs precede the receiving of him as <hi>King</hi> and <hi>Prophet;</hi> (if not in <hi>Time,</hi> yet in order of <hi>Nature</hi>) and so be the <hi>immediate Act of Faith as Justifying.</hi> Our common Catechism tells us, that <hi>Faith receives Christ, as he is offer<g ref="char:EOLhyphen"/>ed
+<pb n="35" facs="tcp:54685:26"/>in the Gospel,</hi> which particle <hi>as</hi> inti<g ref="char:EOLhyphen"/>mates that the <hi>Order</hi> of receiving him, is <hi>directed</hi> by the <hi>Order</hi> of the <hi>Gospels Offer.</hi> And surely <hi>Justification</hi> is the <hi>First benefit offered</hi> [see <hi>Acts</hi> 13.38, 39. <hi>Rom.</hi> 3.21, 22. <hi>ch.</hi> 8.34. <hi>ch.</hi> 10.10.] or Christ as our Righteousness for Justification is first ten<g ref="char:EOLhyphen"/>der'd [which is the same thing in other words.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But why may not that Particle <hi>As,</hi> refer to the <hi>entireness of the Object</hi> of Faith, or Christ in all his Offices?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Yes, it may, and does: but yet we affirm (and shall prove presently,) that though Christ as Prophet and King, be the Object of <hi>Justifying Faith,</hi> yet he is <hi>not of Faith, as Justifying,</hi> and therefore the <hi>As</hi> must be understood also (as was said.)</p>
+               <p n="2">2. I Argue, If Faith as justifying does <hi>immediately</hi> receive Christ as <hi>King</hi> and <hi>Prophet,</hi> then you must grant, that Faith receives the <hi>Personal inherent Gospel Righ<g ref="char:EOLhyphen"/>teousness</hi> for the <hi>Second Justification,</hi> before it receives the <hi>imputed legal Righteousness</hi> of Christ for your <hi>First Justification,</hi> (to use your own terms) and surely this is to set the Cart before the Horse, and is as odd a thing as if a Lady upon the motion of a Match to a Forreign Prince,
+<pb n="36" facs="tcp:54685:27"/>should change her natural allegiance, and become his <hi>Subject,</hi> before she becomes <hi>his Wife.</hi>
+               </p>
+               <p n="3">3. If by Faith receiving Christ as <hi>Prophet</hi> and <hi>Priest,</hi> you mean a <hi>Purpose</hi> or <hi>Promise</hi> [or <hi>Covenant</hi>] to <hi>Subject</hi> your selves to him in those Offices, then <hi>our first Justification is by works of our own, as well as the second,</hi> and you should put in <hi>Works,</hi> and blot out <hi>Faith, Rom.</hi> 5.1. (and where ever else you find Justificati<g ref="char:EOLhyphen"/>on ascribed to Faith) and if that be <hi>Pauls</hi> sense, you may warrant your <hi>Al<g ref="char:EOLhyphen"/>teration</hi> better than <hi>Luther</hi> could his <hi>Ad<g ref="char:EOLhyphen"/>dition</hi> of the word <hi>alone</hi> to <hi>Faith, Rom.</hi> 3.28. in his version of the New Testa<g ref="char:EOLhyphen"/>ment into his Native Language.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I think you take our Divines meaning <hi>right,</hi> for they do say that <hi>Sub<g ref="char:EOLhyphen"/>jection,</hi> Cordial-covenanting, Self-resign<g ref="char:EOLhyphen"/>ing, are the very <hi>proper essential formal Acts of Faith [as Justifying.]</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>And I think that your Divines take the Apostles meaning <hi>wrong.</hi> 1. For that <hi>Justifying Faith, as Justifying,</hi> lies in an <hi>Acceptance of Christ as a Priest only,</hi> is evident, because in the Execution of that Office only he performed that Righte<g ref="char:EOLhyphen"/>ousness, by which, imputed to us, we are Justified. <hi>Christs Sufferings</hi> were under<g ref="char:EOLhyphen"/>gone
+<pb n="37" facs="tcp:54685:27"/>as a <hi>Priest</hi> and his <hi>Active Obedience</hi> must be referred to this <hi>Office</hi> too; as ap<g ref="char:EOLhyphen"/>pears, by the <hi>Typical Priests,</hi> who were to be <hi>legally Righteous,</hi> and their <hi>Sacrifice</hi> without <hi>blemish</hi> (which the Apostle al<g ref="char:EOLhyphen"/>ludes to <hi>Heb.</hi> 27.26. 1 <hi>Pet.</hi> 1.19.) 2. Hence, <hi>Justifying Faith</hi> (so called, not from its <hi>only,</hi> but <hi>immediate effect</hi>) does <hi>accept</hi> of Christ as <hi>Prophet</hi> and <hi>King,</hi> not for <hi>Justification,</hi> but <hi>Sanctification (viz.)</hi> Submission to his <hi>Instruction</hi> and <hi>Govern<g ref="char:EOLhyphen"/>ment.</hi> And that <hi>Submission</hi> or <hi>Subjection</hi> to him in those Offices, which you called but now, the <hi>Act,</hi> is indeed the <hi>Effect</hi> of Faith; and in order of Nature <hi>after</hi> the acceptance of Christ as <hi>Priest</hi> for Justifi<g ref="char:EOLhyphen"/>cation. Hence <hi>Purifying the Heart</hi> is ascribed to <hi>Faith,</hi> Acts 15.9. <hi>Not that Faith does purifie us, as a Grace or Quality infused into our Souls: but because it receives purity offered in Christ,</hi> as <hi>Calvin</hi> well ob<g ref="char:EOLhyphen"/>serves on that place. And so I judge, 'tis evident enough, that <hi>Works</hi> have no cooperation with Faith, to <hi>Justificati<g ref="char:EOLhyphen"/>on.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I wonder at your confidence, in denying Justification by works, when the expressions of St. <hi>James</hi> are so plain, <hi>Jam.</hi> 2.21, 22, 25.</p>
+            </sp>
+            <sp>
+               <pb n="38" facs="tcp:54685:28"/>
+               <speaker>Paul.</speaker>
+               <p>And so do the <hi>Papists</hi> when we deny a <hi>real</hi> (as they term a <hi>Bodily) Pre<g ref="char:EOLhyphen"/>sence</hi> of Christs, in the Sacrament, when the words of Christ are so plain, <hi>This is my Body.</hi> But as they, so you, have lit<g ref="char:EOLhyphen"/>tle cause to wonder. (as will appear presently.) But in the mean while, I can<g ref="char:EOLhyphen"/>not but admire at your interpretation of <hi>James,</hi> to a sense contrary to <hi>Paul, Rom.</hi> 3.28. I shall tell you how Dr. <hi>Manton</hi> (a Divine of great esteem with you <hi>Ga<g ref="char:EOLhyphen"/>latians</hi> and us <hi>Paulists</hi>) reconciles the seeming contradiction between them out of <hi>Diodate</hi> (but in <hi>more concise terms,</hi> then he) <hi>Diodate excellently glosseth that Justifica<g ref="char:EOLhyphen"/>tion in</hi> Paul, <hi>is opposite to the condemnation of a Sinner in general; and Justification in</hi> James <hi>is opposite to the condemnation of an Hypocrite in particular. In</hi> Pauls <hi>sense a Sin<g ref="char:EOLhyphen"/>ner is absolved, in</hi> Jame's <hi>sense a Believer is approved, and so most sweetly, and for ought I can see without exception, the Apostles are agreed. [Manton</hi> on <hi>James</hi> 2.21. page 312.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>We have another and better way of reconciling them. That <hi>Paul</hi> when he denieth Justification by Works, means <hi>Works of Perfect Obedience,</hi> and <hi>James</hi> when he affirmeth, what <hi>Paul</hi> denies in<g ref="char:EOLhyphen"/>tends by Works, <hi>Gospel Obedience</hi> which is
+<pb n="39" facs="tcp:54685:28"/>the <hi>Causa sine qua non,</hi> or <hi>Condition</hi> with<g ref="char:EOLhyphen"/>out which we are not justified before God.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The Learned <hi>Manton,</hi> shall an<g ref="char:EOLhyphen"/>swer, and not I. <hi>So</hi> Socinus [2 Synops <hi>Justif. p.</hi> 17.] <hi>and herein he is generally fol<g ref="char:EOLhyphen"/>lowed by the Men of his own School. But to this I reply.</hi> 1. <hi>That the Apostle</hi> Paul <hi>doth not only exclude the exact Obedience of the Law, but the sincere Obedience of the Gospel, all kind of Works from the business of Justification,</hi> &amp;c. [<hi>Manton</hi> on <hi>James</hi> 2.24. <hi>p.</hi> 333.334.] and elsewhere more fully, <hi>Obedience is not the condition of Justi<g ref="char:EOLhyphen"/>fication, but the evidence: not the Condition and Qualification of the New Covenant, so much as of the Covenanters, [Manton</hi> p. 336. on <hi>Jam.</hi> 2.24.] 2. <hi>'Tis a matter of dangerous consequence to set up works up<g ref="char:EOLhyphen"/>on any pretence whatsoever, as the matter or condition of our Justification before God, for it robbeth God of his Glory,</hi> &amp;c. [<hi>Man<g ref="char:EOLhyphen"/>ton,</hi> v. 24] Read the rest, it will be worth your while, and let me tell you, my old Friend, that I do not <hi>like</hi> your <hi>Reconciliation</hi> of the <hi>Apostles,</hi> nor the <hi>Term, Causa sine qua non,</hi> one jot the better for the <hi>Persons</hi> sake, of whom your <hi>Masters</hi> have borrowed them. But though you prefer the <hi>Socinians</hi> interpretation of
+<pb n="40" facs="tcp:54685:29"/>
+                  <hi>James</hi> before the <hi>Protestants</hi>'s, yet do you understand this latter?</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Yes, I suppose their meaning is, that <hi>James</hi> takes <hi>Justification</hi> for a <hi>Decla<g ref="char:EOLhyphen"/>ration of it,</hi> and so, that <hi>James</hi> intends, that Faith (and consequently Justificati<g ref="char:EOLhyphen"/>on) the immediate effect of it) discovers its reality by works. But again this in<g ref="char:EOLhyphen"/>terpretation we object.</p>
+               <p n="1">1. That the <hi>Justification</hi> in <hi>James</hi> is such as <hi>Salvation dependeth on,</hi> ver. 14.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The words are, <hi>What doth it pro<g ref="char:EOLhyphen"/>fit, tho' a Man say he hath Faith, and hath not Works? can Faith save him?</hi> To your Exception, I Answer. 1. The Apostle speaketh not a word in that Verse of <hi>Justification,</hi> which Salvation <hi>dependeth on:</hi> but of a <hi>Faith</hi> which Salvation <hi>depen<g ref="char:EOLhyphen"/>deth not on,</hi> (and consequently nor <hi>Justi<g ref="char:EOLhyphen"/>fication</hi> (for that <hi>Faith</hi> which will not <hi>save,</hi> will not <hi>justifie</hi> him that hath it.) 2. Suppose other Verses in the context speak of such a <hi>Justification,</hi> yet they do not speak of it <hi>Directly,</hi> but <hi>Indirectly;</hi> and by <hi>consequence</hi> (according to our interpre<g ref="char:EOLhyphen"/>tation of <hi>James</hi>) we mean, that his Scope is to prove, that that Man is not a <hi>Visible Believer,</hi> (and so nor <hi>Visibly Justi<g ref="char:EOLhyphen"/>fied</hi>) that hath no <hi>Works,</hi> and hence in<g ref="char:EOLhyphen"/>deed it follows, that much less, <hi>is he</hi> an
+<pb n="41" facs="tcp:54685:29"/>
+                  <hi>Invisible Believer,</hi> and so <hi>Justified in the Court of Heaven</hi> (and so in a state of <hi>Sal<g ref="char:EOLhyphen"/>vation.</hi>)</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p n="2">2. We Object, That the Justifica<g ref="char:EOLhyphen"/>tion in <hi>James</hi> is such as <hi>followeth</hi> only a <hi>Living Faith.</hi> But the World may as well justifie us, when we have no <hi>Faith</hi> at all.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I suppose your Objection refers to <hi>Jam.</hi> 2.17.26. and I Answer.</p>
+               <p n="1">1. Those Verses (if understood of a <hi>Justification before God</hi>) do not affirm such a Justification by a <hi>Living Faith,</hi> but only deny it to a <hi>Dead Faith.</hi>
+               </p>
+               <p n="2">2. As to the latter Clause, which seems to <hi>aim</hi> at a <hi>Reason,</hi> why <hi>James Justifica<g ref="char:EOLhyphen"/>tion</hi> cannot be <hi>Declarative</hi> [or <hi>before Men</hi>] I <hi>Reply,</hi> that if Men will be <hi>wilful,</hi> they may as well <hi>condemn</hi> us, when we <hi>have Faith,</hi> as a self-conceited Man may bear us in hand that a <hi>Man is dead,</hi> when he hath all the <hi>Signs of Life,</hi> as well as that he is <hi>alive,</hi> when there is no <hi>Sign at all of Life.</hi> But what then? Does it there<g ref="char:EOLhyphen"/>fore follow, that Works are no ground for a Judgment of Mens Faith, and so of their Justification? No surely; And even he that makes this Objection, does yet (out of the heat of dispute) confess, That <hi>Works do prove the Sincerity of our
+<pb n="42" facs="tcp:54685:30"/>Faith,</hi> [Read <hi>Matthew</hi> 5.16. 1 <hi>Peter</hi> 2.12.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p n="3">3. We ask; Was <hi>Abraham</hi> Justi<g ref="char:EOLhyphen"/>fied before Men for a <hi>Secret Action? [James</hi> 2.21. compared with <hi>Genesis</hi> 22.5.]</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p n="1">1. <hi>Isaac</hi> was witness of his Fathers attempt to kill him, <hi>Gen.</hi> 22.9, 10. and so <hi>Abraham</hi> was <hi>declared</hi> to be a Believer (and so Justified) <hi>before one Man.</hi>
+               </p>
+               <p n="2">2. Though the Action was secret when done; yet when it came to <hi>Mens know<g ref="char:EOLhyphen"/>ledge,</hi> it was an <hi>Evidence</hi> of <hi>Abrahams</hi> Faith; and so of his <hi>Justification,</hi> to all that heard and credited the report of the fact. And now it is recorded in the Scripture, it is a standing Justification of his Faith to all that read and believe the History. <hi>Christ is declared to be the Son of God by the Resurrection,</hi> Rom. 1.4. and yet his <hi>Resurrection</hi> was a <hi>Secret Action,</hi> even to the Disciples, who saw him af<g ref="char:EOLhyphen"/>ter he was <hi>Risen,</hi> but did not see him <hi>Rise, Mark</hi> 16.9, 15. and I hope that the Disciple frequent sight of him, was to them and our belief of their report to us, a suf<g ref="char:EOLhyphen"/>ficient ground to credit the Fact, and so a Declaration to us of his being the Son of God, and of his Justification from the Sins of the elect charged upon him in his Death.</p>
+            </sp>
+            <sp>
+               <pb n="43" facs="tcp:54685:30"/>
+               <speaker>Gal.</speaker>
+               <p>But was <hi>Abraham</hi> Justified before Men for such an Action as killing his Son? [Would they not rather exclaim against it, as a barbarous Action?]</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Perhaps some Men might, who did not know he had a Command from God. But upon supposition, that his Action was known to be warranted by God (to whom alone we owe an <hi>implicit Faith,</hi> a <hi>Blind Obedience</hi>) his Faith must needs be celebrated, (as it is, <hi>Heb.</hi> 11.17.) for that very act.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But was not <hi>He</hi> the <hi>Justifier</hi> here, who was the <hi>Imputer</hi> of Righteousness? <hi>ver.</hi> 23. therefore God was the <hi>Justifier</hi> here.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>According to this interpretation now under debate, we Answer this Questi<g ref="char:EOLhyphen"/>on in the <hi>Negative:</hi> All that can be fair<g ref="char:EOLhyphen"/>ly collected from <hi>ver.</hi> 23. and <hi>ver.</hi> 21. compared, is but this; that <hi>Abraham</hi>'s of<g ref="char:EOLhyphen"/>fering up his Son was a <hi>New evidence</hi> of his <hi>Old Faith,</hi> and of <hi>Gods imputing Righ<g ref="char:EOLhyphen"/>teousness to him long before,</hi> Gen. 15.16. If we should grant you the <hi>Affirmative,</hi> then this absurdity would follow (supposing the term <hi>Fulfilled,</hi> ver. 23. be meant (as a <hi>Galatian</hi> Divine interprets it) that <hi>That Testimony of Scripture appeared to be true</hi>) that <hi>Gods Justifying</hi> Abraham <hi>by Faith
+<pb n="44" facs="tcp:54685:31"/>formerly,</hi> should <hi>appear to be true, by Gods Justifying him by Works now.</hi> A strange proof surely.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Your Phrase, That <hi>Works justifies our Faith, not our Persons,</hi> makes <hi>ver.</hi> 24. run thus sencelesly by Works a Mans Faith is Justified, and not by Faith on<g ref="char:EOLhyphen"/>ly.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>No such matter; the sense is good thus. A Man is <hi>declared</hi> to be <hi>Justified</hi> by Works, and not by <hi>Faith without them;</hi> because Faith is <hi>visible</hi> on<g ref="char:EOLhyphen"/>ly by <hi>Works</hi> [see <hi>v.</hi> 18.] Thus much may suffice, to evince; that this <hi>Interpre<g ref="char:EOLhyphen"/>tation</hi> of <hi>James</hi> may be defended against any Objections of your Party. Yet there is another Interpretation, which deserves consideration. This grants one thing which you contend for, that <hi>James</hi> speaks of <hi>Justification before God:</hi> but <hi>denies</hi> ano<g ref="char:EOLhyphen"/>ther, <hi>(viz.)</hi> that <hi>James</hi> affirms such Justifi<g ref="char:EOLhyphen"/>cation to be by Works. In short, when <hi>James</hi> says, <hi>by Works a Man is Justified;</hi> he means a <hi>Working Faith.</hi> [a Faith apt to shew it self in all good Works (<hi>Works</hi> the <hi>Effect</hi> being put for <hi>Faith,</hi> their <hi>Cause</hi>] And when <hi>James</hi> adds, and <hi>not by Faith only,</hi> he excludes <hi>a dead Faith,</hi> a bare as<g ref="char:EOLhyphen"/>cent to the <hi>Articles of Religion, destitute of sincere Obedience, and so</hi> Paul <hi>and</hi> James
+<pb n="45" facs="tcp:54685:31"/>
+                  <hi>do sweetly consort together.</hi> Paul <hi>severs Works from our Justification, not from our Faith,</hi> James <hi>joyns Works to our Faith, but not to our Justification.</hi> [so <hi>Pemble</hi> of <hi>Justi<g ref="char:EOLhyphen"/>fication,</hi> p. 234.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>We say, we dare not raise an Ex<g ref="char:EOLhyphen"/>position, so far from the plain importance of the words, without apparent necessity, which here is not.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p n="1">1. Whether the Exposition be <hi>forced,</hi> you cannot well judge without reading <hi>Pemble,</hi> which I desire you will do with attention.</p>
+               <p n="2">2. There is an <hi>Apparent necessity,</hi> either of this <hi>Exposition,</hi> or the <hi>former</hi> of <hi>Declara<g ref="char:EOLhyphen"/>tive Justification:</hi> because else the <hi>Apostles</hi> clash one with another.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>If <hi>Pemble</hi> so understand a <hi>Working Faith,</hi> as that it justifieth <hi>principally as Faith;</hi> and less <hi>principally,</hi> as <hi>Working,</hi> we should not differ from him.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>How Faith should justifie <hi>Princi<g ref="char:EOLhyphen"/>pally,</hi> I cannot conceive, according to your own Notion, that Faith justifies in the <hi>nearest sense,</hi> directly and properly, as it is the fulfilling of the condition of the New Covenant. In the <hi>remote</hi> and <hi>more improper sense,</hi> as it is. <hi>The receiving of Christ, and his satisfactory Righteousness</hi> so that you deny that which is <hi>Peculiar</hi>
+                  <pb n="46" facs="tcp:54685:32"/>to faith as opposed to Works in Justifica<g ref="char:EOLhyphen"/>tion, and which gives it a <hi>Principality</hi> a<g ref="char:EOLhyphen"/>bove them: and you ascribe no more <hi>to it,</hi> then what agrees also to <hi>Works.</hi> For your Divines say, That <hi>Works justifie in the same kind of causality, or procurement as Faith,</hi> (viz.) <hi>as part of the condition of the Covenant,</hi> or of Justification. These Notions are <hi>Ropes of Sand,</hi> but (if I mi<g ref="char:EOLhyphen"/>stake not) you have a <hi>Notion</hi> that <hi>as<g ref="char:EOLhyphen"/>cribes more to Works, than to Faith,</hi> which I cannot readily recal. Pray help my memory.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>It is <hi>this</hi> (I suppose,) <hi>Works make Faith alive as to the attainment if its end of Justification.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>
+                  <hi>Yes, that is it.</hi> And if it be true, than surely it roundly follows, that <hi>Works justifie principally, as Works;</hi> and <hi>Faith justifies less principally, as Faith</hi> (to invert your own <hi>Phraseology</hi>) and so contradict your selves.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But does not the Scripture often ascribe <hi>Justification</hi> at the <hi>Day of Judg<g ref="char:EOLhyphen"/>ment</hi> to Works, at <hi>Matth.</hi> 12.37. chap. 25.35. <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>This general Answer might suf<g ref="char:EOLhyphen"/>fice, that however the <hi>letter</hi> of the <hi>Words</hi> in those places <hi>sound,</hi> it having been pro<g ref="char:EOLhyphen"/>ved, that our <hi>constitutive Justification</hi> (as
+<pb n="47" facs="tcp:54685:32"/>your Phrase is) is not by <hi>Works,</hi> our <hi>sen<g ref="char:EOLhyphen"/>tential</hi> Justification <hi>cannot be by them</hi> nei<g ref="char:EOLhyphen"/>ther; <hi>For the last Judgment shall be nothing else, than the approbation of the Doctrine of the Gospel,</hi> [says <hi>Calvin</hi> on <hi>John</hi> 12.48.] which Doctrine is; that we are justified by Faith, not by Works. Yet I Answer, to the <hi>first Scripture,</hi> Christ meaning can be no more, than that <hi>Good Words</hi> shall be a <hi>Proof</hi> or <hi>Evidence</hi> of our <hi>right to sen<g ref="char:EOLhyphen"/>tential Justification;</hi> not that they shall be the <hi>condition of our right to it.</hi> It is more agreeable to Scripture language to say, that Christ in pronouncing Sentence of Justification, will have respect to the <hi>Words</hi> for the <hi>Speakers</hi> sake, not to the Speaker for the <hi>Words</hi> sake; for 'tis said, <hi>Gen.</hi> 4.4. God had respect to <hi>Abel</hi> the Offerer, and thence to his Offering, not to the Offering, and thence to the Of<g ref="char:EOLhyphen"/>ferer.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But Christ at the Great day will show forth his <hi>Love to the Obedience,</hi> and not only to the Persons Justified.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>We grant it two ways. 1. By Praise and Commendation, 1 <hi>Cor.</hi> 4.5. and by giving that Testimony to their <hi>Words,</hi> the Obedience now under consi<g ref="char:EOLhyphen"/>deration) which he did to <hi>Job</hi> in this life, (<hi>viz.</hi> that they were <hi>right, Job</hi> 42.8.
+<pb n="48" facs="tcp:54685:33"/>(but with some graines of allowance, for many of his words had been very <hi>wrong</hi>) And 2. <hi>By putting them into possession of that Salvation,</hi> which their Obedience <hi>qualifi<g ref="char:EOLhyphen"/>ed or made them meet for,</hi> [<hi>Col.</hi> 1.12. <hi>Psal.</hi> 17. <hi>ult.</hi>] not gave them <hi>right</hi> to.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But our Works gives us a right <hi>now</hi> to Salvation, and therefore will do so, at <hi>the day of</hi> Judgment. A stanch Di<g ref="char:EOLhyphen"/>vine of our Party, thus interprets <hi>Rev.</hi> 22.14. Blessed are they that do his Com<g ref="char:EOLhyphen"/>mandments, that they may have <hi>Right [by Vertue of the Covenat of Grace]</hi> to the Tree of Life <hi>[Christ and Eternal Life by and with him.]</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>If your Annotators gloss be right, I cannot see to the contrary, but that <hi>Faith</hi> is <hi>shut out for a Wrangler,</hi> from being the <hi>bond</hi> of Union on our part between us and Christ. For <hi>Works</hi> are competent enough for that end <hi>without it.</hi> And if this be true, I cannot think but <hi>Paul</hi> and <hi>John</hi> are at <hi>Daggers drawing.</hi> For where<g ref="char:EOLhyphen"/>as <hi>Paul</hi> says, that Christ dwells in our hearts by <hi>Faith, John</hi> says, that he dwells in them by <hi>Works.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Does not <hi>John</hi> say elsewhere. He that keepeth his Commandments dwelleth in him, and he in him, 1 <hi>John</hi> 3.24?</p>
+            </sp>
+            <sp>
+               <pb n="49" facs="tcp:54685:33"/>
+               <speaker>Paul.</speaker>
+               <p>Your Annotatour's gloss <hi>here</hi> con<g ref="char:EOLhyphen"/>tradict his <hi>other</hi> now mentioned. 'Tis this, <hi>[thereby shewing himself to be united to Christ]</hi> And so we Answer, that <hi>do<g ref="char:EOLhyphen"/>ing God's Commandments,</hi> does not <hi>give,</hi> but <hi>declare a right</hi> to Christ, and eternal life. And so to that <hi>Sentential Justification</hi> (now under debate) whereby that life is awar<g ref="char:EOLhyphen"/>ded to us. But the right accrues from our Union to Christ by Faith alone, whereby all things [that are Christ's are <hi>ours,</hi> 1 <hi>Cor.</hi> 3.21, 23. And let me add, that if <hi>Christ</hi> be intended in that meta<g ref="char:EOLhyphen"/>phor, <hi>The Tree of Life.</hi> 'Tis not Christ as <hi>offered</hi> in the Gospel, but Christ as <hi>enjoyed</hi> in Heaven; which enjoyment is intima<g ref="char:EOLhyphen"/>ted in the word <hi>come</hi> in the sentence of Absolution, <hi>Matth.</hi> 25.34, 35. from which Scripture I would fain know what you do infer.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>This we infer from thence, that the Works of Mercy there mentioned, are parts of tha<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Evengelical Righteous<g ref="char:EOLhyphen"/>ness, which is the condition of our Justi<g ref="char:EOLhyphen"/>fication at the day of Judgment. The word <hi>For</hi> importing the <hi>Reason</hi> of the <hi>Sen<g ref="char:EOLhyphen"/>tence.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>If that be a just Inference, these <hi>Absurdities</hi> would follow.</p>
+               <p n="1">
+                  <pb n="50" facs="tcp:54685:34"/> 1. That these Works of Evangelical Righteousness <hi>foreseen,</hi> were the condition of Election [as that <hi>term</hi> imports, a <hi>choice</hi> of some Persons, with a leaving of others; and a <hi>purpose</hi> of bestowing Salvation up<g ref="char:EOLhyphen"/>on them; both being intended in those clauses of the Sentence, <hi>Ye Blessed of my Fa<g ref="char:EOLhyphen"/>ther, the Kingdom prepared for you,</hi> ver. 34.] And thus must the Sentence run. <hi>I admit you into possession of Salvation, because ye have performed works of Mercy to my poor Members, the foresight whereof induced my Father from eternity to appoint you to Salva<g ref="char:EOLhyphen"/>tion, rather than others whom he foresaw would neglect those Works.</hi>
+               </p>
+               <p n="2">2. Absurdity, Is that those Works are also the condition of Adoption [intima<g ref="char:EOLhyphen"/>ted in the Word <hi>inherit</hi>] and this <hi>Adop<g ref="char:EOLhyphen"/>tion</hi> may be considered, either as inclu<g ref="char:EOLhyphen"/>ded in <hi>Election</hi> [as explained above] from eternity; or as an act of God's in time. If the <hi>former,</hi> then this clause must be added to the sentence. <hi>And because my Father foreknew you would be dutiful, he re<g ref="char:EOLhyphen"/>solved to adopt you to a Kingdom; whilest he denied that honour to those whom he fore<g ref="char:EOLhyphen"/>knew would be undutiful and rebellious.</hi> If the <hi>latter,</hi> the sentence must have this addition, <hi>Because ye have performed those good Works which were the condition of your
+<pb n="51" facs="tcp:54685:34"/>Adoption: Therefore I adjudge you the possession of the Inheritance you were thereby adopted to.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But we do not hold Works forseen to be the cause of Election, and Adopti<g ref="char:EOLhyphen"/>on included in it.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Nor do I clarge you with that Assertion. I only design your conviction of the errour of your <hi>Interpretation</hi> of the Text, from whence such Absurdities do naturally flow. But surely you cannot deny, that <hi>Works</hi> are the <hi>condition</hi> of <hi>actual Adoption,</hi> if they be the condition or mat<g ref="char:EOLhyphen"/>ter of <hi>Justification:</hi> whereas the Scrip<g ref="char:EOLhyphen"/>ture says, <hi>We are all the Children of God by Faith in Christ Jesus,</hi> Gal. 3.26. By <hi>Faith,</hi> not by <hi>Works;</hi> not Children, be<g ref="char:EOLhyphen"/>cause dutiful; but dutiful because Chil<g ref="char:EOLhyphen"/>dren.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But if Works of Mercy be not considered as part of the condition of Justification at the day of Judgment; how then? Not as the Righteousness which the Law requires. For so <hi>shall no Man living be Justified,</hi> Rom. 3.20.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Those Works cannot be conside<g ref="char:EOLhyphen"/>red otherwise than as part of the Righte<g ref="char:EOLhyphen"/>ousness which the Law requires, if they be part of the condition of Justification; and therefore are excluded from being
+<pb n="52" facs="tcp:54685:35"/>by the Scripture you cite (as hath been sufficiently demonstrated)</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Works are not considered, as a meer sign whereby God doth discern Mens Faith, for he seeth it immediately, and needeth no sign.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The <hi>Man</hi> Christ Jesus being the <hi>Judge, Acts</hi> 17.31. he will suitably to his manhood, at the great Day, pass Sen<g ref="char:EOLhyphen"/>tence upon believers by <hi>Works,</hi> as <hi>signs</hi> of their Faith, <hi>to himself,</hi> (as he did on Earth to the Centurian, <hi>Mat.</hi> 8.10. and the Woman of <hi>Canaan,</hi> chap. 15.28.) though as <hi>God,</hi> upon an immediate in<g ref="char:EOLhyphen"/>spection of their hearts, he had admitted their Souls into Heaven at their dissolu<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Nor are Works produced as meer signs to satisfie the justified Person him<g ref="char:EOLhyphen"/>self.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Yet the Author whom you quote, adds, <hi>That the business of the Day of Judg<g ref="char:EOLhyphen"/>ment, is to put the godly out of doubt by the sentance, and by their Glory, put out of doubt:</hi> Of what? It must be either of their <hi>Sincerity,</hi> or the <hi>passing of the Sen<g ref="char:EOLhyphen"/>tance of Absolution,</hi> or their <hi>Admission into Glory</hi> of their whole Persons. The <hi>first</hi> he denies; and I think, he might as rea<g ref="char:EOLhyphen"/>sonably deny the other <hi>too.</hi> For it is
+<pb n="53" facs="tcp:54685:35"/>not imaginable, that the Godly who had been absolved, and admitted into Hea<g ref="char:EOLhyphen"/>ven in <hi>Soul,</hi> should doubt of the conti<g ref="char:EOLhyphen"/>nuance of that favour, or of the extent of it to <hi>their Bodies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But the common opinion is, that it is to satisfie the condemned World of the sincerity of the Faith of the Godly.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Add but the end of that satis<g ref="char:EOLhyphen"/>saction, <hi>(viz.)</hi> that the Wicked may be convinced of the Justice of God's proce<g ref="char:EOLhyphen"/>dure, in acquitting the Godly; whilst themselves are condemned, and we own the <hi>Opinion,</hi> and like it never the worse for the <hi>commouness</hi> of it. What have you to except against it?</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>
+                  <hi>For,</hi> clearly expresses the ground or reason of the Sentence. Can any <hi>more</hi> be said of Faith, than that we are Justifi<g ref="char:EOLhyphen"/>ed or Judged to life <hi>for it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>To Answer your Question first. <hi>So much</hi> is no where said of <hi>Faith,</hi> and therefore much less of <hi>Works.</hi>
+               </p>
+               <p>As for your Particle; for I cannot see how it should express the <hi>Ground</hi> of the <hi>Sentence;</hi> because the Works of Mercy mentioned in it, are no <hi>Righteousness,</hi> as not being conformable to any Law. If they be, tell me to which?</p>
+            </sp>
+            <sp>
+               <pb n="54" facs="tcp:54685:36"/>
+               <speaker>Gal.</speaker>
+               <p>To deal ingeniously with you, I cannot well tell to which. If I shall say, to the <hi>Natural Law,</hi> I am aware, that the same Arguments, whereby we ex<g ref="char:EOLhyphen"/>clude <hi>Faith</hi> and <hi>Repentance</hi> from being branches of that Law, exclude <hi>Mercy</hi> also. If I shall say, to the <hi>Moral Law,</hi> I am sensible, that that requires perfect Obedi<g ref="char:EOLhyphen"/>ence. And if the <hi>Acts of Mercy</hi> in the Sentence are <hi>such,</hi> then they are our <hi>Legal,</hi> not <hi>Evangelical Righteousness</hi> (which latter we contend for) but if they are Acts of <hi>Sincere Obedience,</hi> then they fall short of what the Moral Law requires; and so cannot be our <hi>Legal Righteousness.</hi> And therefore I must say, that the Acts of Mercy under consideration, are confor<g ref="char:EOLhyphen"/>mable to the <hi>Gospel Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I am very glad, my Discourse hath find so good an effect, as to give you the sight of Day, through a little hole. But as to that Law you pitch upon, I Argue (upon <hi>Supposition,</hi> not a <hi>Grant</hi> that there is such a <hi>Law</hi>) either that Law requires <hi>Perfect,</hi> or only <hi>Sincere</hi> Obedience. If the <hi>former,</hi> none can be Justified by that Law without <hi>such</hi> Obedience: But the Works of Mercy in the Sentence, were not perfect. <hi>Solomon</hi> says, <hi>There is not a just Man upon Earth that doth good, and
+<pb n="55" facs="tcp:54685:36"/>sinneth not,</hi> Eccles. 7.20. <hi>i. e.</hi> that doth not evil, as well as good, and that doth not evil in doing good. If the <hi>latter,</hi> then indeed the <hi>Merciful</hi> may be sentenced to Life, as having fulfilled the Righteousness of that <hi>Law.</hi> But then there are <hi>two scur<g ref="char:EOLhyphen"/>vy consequences</hi> will undeniably sollow. <hi>One,</hi> That Christ's <hi>Sentence of Justification,</hi> doth not include <hi>Forgiveness of Sin.</hi> For if <hi>Sincerity</hi> be all the <hi>Gospel Law requires,</hi> where <hi>that</hi> is found, there is no transgres<g ref="char:EOLhyphen"/>sion, and so no need of forgiveness. But your Party agree with ours in acknow<g ref="char:EOLhyphen"/>ledging <hi>Forgiveness,</hi> to be a branch of Justification, by warrant from, <hi>Acts</hi> 3.19. <hi>The other Consequence,</hi> which follows from the <hi>first</hi> is, that it is a sentence of <hi>Meer Legal Justification,</hi> which Christ pronoun<g ref="char:EOLhyphen"/>ces at the day of Judgment. For Christ pronounces Men Righteous, because they have done all, that the <hi>Gospel Law</hi> exacted of them.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>The use and interest of Gospel conditions, is not from the Conformity of them to the <hi>Preceptive part</hi> of the Law (though in a degree) there be that, but from their conformity to the <hi>Rule</hi> of the grace of the <hi>Promise.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p n="1">1. But then the <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> returns, <hi>(viz.)</hi> That M<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="56" facs="tcp:54685:37"/>
+                  <hi>Righteous, without</hi> a Righteousness. For <hi>Christ</hi> by vertue of the Gospel-Sanction accepts them as Righteous by that very <hi>Law,</hi> which they have <hi>
+                     <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> and by that breach are <hi>Unrighteous:</hi> And so the Judgment cannot be said to be <hi>according to Truth.</hi>
+               </p>
+               <p n="2">2. I would have you consider, that <hi>Righ<g ref="char:EOLhyphen"/>teousness</hi> imports a respect or <hi>Relation</hi> to a <hi>Law</hi> or Rule of our Actions, not to a <hi>Sanction.</hi> The Sanction of Promise, <hi>sup<g ref="char:EOLhyphen"/>poses</hi> actions to be <hi>good,</hi> does not make them good, we are not Righteous we are justified; but Justified because we are Righteous. And this is evident from the instance of the Old Covenant of Works. <hi>God made Man upright</hi> [or Righteous] <hi>Eccles.</hi> 7. <hi>ult.</hi> which he did in <hi>Order</hi> of <hi>Nature,</hi> if not <hi>Time,</hi> before he annexed that Sanction to the Law, <hi>The Man that doth them shall live in them,</hi> Gal. 3.12.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>It <hi>seemeth</hi> that Christ doth call Men <hi>Righteous,</hi> in reference to this per<g ref="char:EOLhyphen"/>sonal Evangelical Righteousness mentio<g ref="char:EOLhyphen"/>ned in their justifying Sentence, <hi>Matth.</hi> 25.46.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But it seemeth not so to me. For <hi>Believers are acquitted at the day of Judg<g ref="char:EOLhyphen"/>ment, on the very same account and scoure they are now</hi> (viz) <hi>for the imputed Righte<g ref="char:EOLhyphen"/>ousness
+<pb n="57" facs="tcp:54685:37"/>of Christ in the way of free grace, [or received by Faith]</hi> [so <hi>Flavel</hi> on Assem. Catech. <hi>p.</hi> 97, 96. <hi>Q.</hi> 7.1 compared] and so the denomination of <hi>Righteous,</hi> must needs be taken from that Righteousness without them upon the account whereof they were acquitted.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I am sensible, that our Cause suf<g ref="char:EOLhyphen"/>fers by my disability to manage it. Yet the Interpretation our Divines give of the kinds of works excluded from Justification sticks with me</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Let me hear it, and I will give you my sentiment about it.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>The Work excluded from being the Righteousness whereby we are justifi<g ref="char:EOLhyphen"/>ed, are the <hi>Works</hi> of the <hi>Ceremonial Law,</hi> [<hi>Rom.</hi> 4.9, 10. <hi>Gal.</hi> 5.2.]</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Let Judicious <hi>Calvin</hi> be heard, who thus occurs this Objection. <hi>'Tis cer<g ref="char:EOLhyphen"/>tain that</hi> Paul <hi>contested with false Teachers, who puffed up the People with an undue con<g ref="char:EOLhyphen"/>fidence in the Ceremonial Law. But in devi<g ref="char:EOLhyphen"/>sion of the controversie between himself and them, he limits not his Discourse to the Cere<g ref="char:EOLhyphen"/>monies; nor does he dispute particularly, how far they availed; but he comprehends the whole Law</hi> [Rom. 3.20.] <hi>Calvins</hi> mean<g ref="char:EOLhyphen"/>ing is, that the Apostle argues from an <hi>Universal</hi> to <hi>particulars, i. e.</hi> that Men are
+<pb n="58" facs="tcp:54685:38"/>not Justified by any <hi>Works;</hi> therefore not by those of the <hi>Ceremonial Law,</hi> and that this Observation is true, and so gives a <hi>Mortal wound</hi> to your cause, I shall make most evident.</p>
+               <p n="1">1. The <hi>false Teachers</hi> looked for <hi>Justifi<g ref="char:EOLhyphen"/>cation by Works of the Moral Law,</hi> as well as the <hi>Ceremonial, Luk.</hi> 18.11, 12. The <hi>Pharisee</hi> boasted of his freedom from Sins against <hi>that Law,</hi> and <hi>trusted in himself that he was Righteous</hi> thereby, <hi>v.</hi> 9. and therefore the <hi>Apostles</hi> Assertion, that by <hi>the deeds of the Law there shall no flesh be justified in Gods sight,</hi> Rom. 3.20. must needs be extended to the <hi>Moral Law.</hi>
+               </p>
+               <p n="2">2. The <hi>Apostle</hi> excludes from Justifica<g ref="char:EOLhyphen"/>tion the Works of that <hi>Law</hi> which was <hi>common to Jew and Gentile,</hi> which was the <hi>Natural or Moral Law;</hi> as appears by the instances of the <hi>Sins</hi> which were all a<g ref="char:EOLhyphen"/>gainst <hi>that Law,</hi> and not one against the <hi>Ceremonial Law,</hi> Rom. 3.20. compared with <hi>v.</hi> 10. to <hi>v.</hi> 18.</p>
+               <p n="3">3. The Apostle <hi>excludes</hi> the <hi>Works</hi> of that <hi>Law</hi> which the <hi>Gospel intended to esta<g ref="char:EOLhyphen"/>blish,</hi> as a rule of duty, <hi>Rom.</hi> 3. last. which was not the <hi>Ceremonial Law,</hi> [Eph. 2.15. Heb. 9.10.] but the <hi>Moral</hi> [<hi>Mat.</hi> 5.17.18. compared with <hi>v.</hi> 21.22, 27, 28.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But your <hi>Calvin</hi> takes in the <hi>Cere<g ref="char:EOLhyphen"/>monial
+<pb n="59" facs="tcp:54685:38"/>Law</hi> too, as established by the Doctrine of Justification <hi>without the deeds of the Law</hi> [Calv. <hi>Rom.</hi> 3. <hi>ult.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>He does so; but with a <hi>difference</hi> from the Moral: <hi>Not that the precepts of it are continued, but that the righteousness sha<g ref="char:EOLhyphen"/>dowed out by them, was exhibited in Christ.</hi>
+               </p>
+               <p>But as for the <hi>Moral Law</hi> (he says) <hi>that in it is found the exact righteousness of the Law, which by imputation is made ours; and also sanctification, imperfect indeed, but aiming at Perfection as its mark</hi> [<hi>Calvin</hi> on <hi>Rom.</hi> 3. last.] and so he intimates, that the Moral Law requires <hi>perfect Obedience</hi> still, though not <hi>for Justification:</hi> And so God does not cease to be a <hi>Sovereign,</hi> by becoming a <hi>Benefactor.</hi> Again, by your denial of Justification to work of the Ceremonial Law you contradict your own Notions.</p>
+               <p n="1">1. <hi>That Works done by Grace do justifie,</hi> for the <hi>Works of the Ceremonial Law</hi> whilst it was in force, were <hi>Works done by Grace,</hi> and so according to your sentiment were part of the Righteousness, whereby the Believers of the Old Testament (and of the New too, till that Law was actually abolished) were justified. This <hi>Antecedent</hi> I prove. 1. From <hi>Luk.</hi> 1.6. which <hi>Za<g ref="char:EOLhyphen"/>charias</hi> and <hi>Elizabeth,</hi> are called, <hi>Righteous;
+<pb n="60" facs="tcp:54685:39"/>because they walked in the Ordinances of the Lord,</hi> which term notes the <hi>Ceremonial Law.</hi> And 2. <hi>By this Reason,</hi> that they had this <hi>Moral Goodness</hi> in them, <hi>(viz.)</hi> a subjection of the Conscience to the meer will of the Law-giver; and if Works done by Grace under the <hi>Old Testament Dispensation</hi> did not justifie: How come they by that efficacy under the <hi>New?</hi>
+               </p>
+               <p n="2">2. <hi>That the works of the Gospel Law justi<g ref="char:EOLhyphen"/>fie.</hi> For the works of the Ceremonial Law were works of the <hi>New Gospel Law;</hi> (in your sense is) the actual obligation to that Law commenced soon after <hi>Adam</hi>'s fall, (as we may collect from <hi>Gen.</hi> 4.3.4.) and that Law represented Christ and his benefits, and the observation of it was an exercise of <hi>Faith and Repentance (the two great precepts of your Gospepl Law)</hi> [as ap<g ref="char:EOLhyphen"/>pears by 1 <hi>Cor.</hi> 5.7, 8.] and either <hi>those Works</hi> of the New Gospel Law, did not <hi>justifie</hi> under that <hi>Evangelical Dispensation before Christ.</hi> And if so, how is it that any Gospel <hi>Works</hi> do justifie <hi>Since Christ?</hi> Or if those Ceremonial Works did justifie then, and not now; then the Old Testa<g ref="char:EOLhyphen"/>ment Saints were justified by one, the New Testament Saints by another sort of works of the same Gospel Law.</p>
+               <p n="3">
+                  <pb n="61" facs="tcp:54685:39"/> 3. You grant that we are Justified <hi>by Works of the Moral Law;</hi> but the works of the <hi>Ceremonial Law</hi> were <hi>Works of the Moral Law</hi> [i. e. <hi>positive Precepts,</hi> which by vertue of the first and second Com<g ref="char:EOLhyphen"/>mandments of the Moral Law, the <hi>Jews</hi> were Obliged to obey; and this is true, whether you consider them as joyned with their <hi>signification,</hi> and Gospel use, or <hi>seperated there from,</hi> and being thus coin<g ref="char:EOLhyphen"/>cident, the <hi>Jews could not be justified by the Moral Law, but they must be justified by the Ceremonial Law;</hi> And if it was so then, why not now? <hi>The Reason</hi> cannot be because 'tis a <hi>Law of that kind,</hi> but be<g ref="char:EOLhyphen"/>cause we are not justified by any <hi>Law at all.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>This is all <hi>Stuff,</hi> we deny Justifi<g ref="char:EOLhyphen"/>cation by the Moral Law.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I see, 'tis as true of <hi>erronious Per<g ref="char:EOLhyphen"/>sons</hi> as of <hi>Liars,</hi> that <hi>they have need of good memories,</hi> to make their tales hang well together. Do not you <hi>Galatians</hi> alledg <hi>Abraham</hi> and <hi>Rahab</hi> as instances of Per<g ref="char:EOLhyphen"/>sons <hi>justified by Works, Jam.</hi> 2.21.25. And 'tis evident that <hi>Rahabs</hi> receiving <hi>Joshua</hi>'s Messengers was an Act of <hi>Obedi<g ref="char:EOLhyphen"/>ence to that Moral Law. Be not forgetful to entertain Strangers,</hi> Heb. 13.2. (which is a branch of the sixth Commandment)
+<pb n="62" facs="tcp:54685:40"/>and <hi>Abrahams</hi> offering up his Son, was though a positive Precept, yet reducible to the sum or the first Table, <hi>Mat.</hi> 22.37, 38. <hi>Thou shalt love the Lord thy God,</hi> &amp;c. And God himself owns it as a sign and effect of his <hi>fear of him, Gen.</hi> 22.12. and surely <hi>fear</hi> of God is a duty of the <hi>Moral Law, (viz.)</hi> [of the first Com<g ref="char:EOLhyphen"/>mandment] and did not you even now make <hi>Love and its Works</hi> the personal Righteousness whereby we are justified, and Love is the sum of both Tables of the Moral Law, <hi>Love to God</hi> (in the Scrip<g ref="char:EOLhyphen"/>ture now quoted) <hi>Love to our Neighbour, Matth.</hi> 22.39, 40. and <hi>Rom.</hi> 13.8, 9.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But you forget what I told you, that it is <hi>sincere</hi> Obedience (which the Gospel requires) not <hi>perfect</hi> (which the Law exacts) that is our personal Righte<g ref="char:EOLhyphen"/>ousness to Justification.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I remember it well enough, and thence rightly conclude, that you say and unsay, when you deny, that you hold Justification by the Moral Law. For the <hi>sincere Obedience</hi> which you call a <hi>Work</hi> of the <hi>Gospel Law,</hi> and the <hi>per<g ref="char:EOLhyphen"/>fect Obedience</hi> which you call a <hi>Work of the Moral Law,</hi> are really <hi>Works of the same Law (viz.)</hi> the <hi>Moral:</hi> As your Wife is the same Woman now, that she was
+<pb n="63" facs="tcp:54685:40"/>when single, though she hath lost her Fathers Name, and got her Husbands. As for your <hi>evasion,</hi> that 'tis <hi>Perfect Obedience</hi> which is excluded from being our <hi>Perso<g ref="char:EOLhyphen"/>nal Righteousness for Justification;</hi> it is in<g ref="char:EOLhyphen"/>significant, yea hurtful to your cause: I at us but weigh that one passage, <hi>Rom.</hi> 3.20. <hi>By the deeds of the Law shall no flesh be Justi<g ref="char:EOLhyphen"/>ed in his sight; for by the Law is the know<g ref="char:EOLhyphen"/>ledge of sin.</hi> Where remember, that by <hi>no flesh,</hi> is meant, <hi>no Man, [Jew or Gentile,</hi> ver. 9.] and that by the <hi>Law,</hi> is meant the <hi>Law Natural</hi> [or unwritten] and the <hi>Law Moral</hi> [or written] (which are the same for substance (as I have proved be<g ref="char:EOLhyphen"/>fore) and that by the <hi>Knowledge of Sin,</hi> (which is by the Law,) is meant (in <hi>James</hi>'s Phrase) <hi>being convinced of the Law as Transgressors,</hi> Jam. 2.9. and then bor<g ref="char:EOLhyphen"/>rowing his Phrase, the Apostles Argu<g ref="char:EOLhyphen"/>mens is this, they who are convinced of the Law as transgressours, shall not be Justified by the deeds of the Law: But <hi>Jew</hi> and <hi>Gentile</hi> are convinced of the Law as Transgressours. Therefore neither <hi>Jew</hi> nor <hi>Gentile</hi> shall be justified by the deeds of the Law. And thence the inference is very natural, that (at least) <hi>all the deeds of your Gospel Law (viz.)</hi> Love with all its works] which you own to be deeds
+<pb n="64" facs="tcp:54685:41"/>of the Moral Law, and imperfect) <hi>are excluded from being our personal Righteousness for Justification.</hi> And if you acknowledg not the <hi>Inference,</hi> you accuse the <hi>Apostle</hi> of great fault in a <hi>Disputant (viz.)</hi> not to be aware of the force of his own Ar<g ref="char:EOLhyphen"/>gument, that it would <hi>prove</hi> what he in<g ref="char:EOLhyphen"/>tended not; or rather, <hi>disprove</hi> what he intended to <hi>grant</hi> (as you imagine) I mean, that <hi>we are Justified by sincere or im<g ref="char:EOLhyphen"/>perfect works, because we are justified only by perfect works.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Some of our Party alledge that <hi>External Works</hi> of the <hi>Moral Law,</hi> not <hi>in<g ref="char:EOLhyphen"/>ternal,</hi> are denied to be our Righteousness for Justification, and thus a Learned Man argues, so far forth as <hi>Paul</hi> rejects Spiritual and External Works, as unnecessary; he admits of internal Works as necessary, but ritual Works <hi>Paul</hi> rejects as unneces<g ref="char:EOLhyphen"/>sary to Justification; therefore he admits Spiritual Works, as necessary to Justifica<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I shall borrow the Learned Dr. <hi>Tullies,</hi> Answer to it (who deserves an Honourable mention for appearing on the behalf of Pauline Justification against its opposers) <hi>A pleasant argumentation</hi> (saith he) <hi>and very like this, so far forth as use<g ref="char:EOLhyphen"/>less Subjects are excluded, useful Subjects
+<pb n="65" facs="tcp:54685:41"/>are admitted: but useless Subjects are ex<g ref="char:EOLhyphen"/>cluded from a share in Regal Authority; therefore useful Subjects are admitted to a share in it, whereas both sort of Subjects are excluded.</hi> [Tullies <hi>Justificatio Paulina,</hi> pag. 57. 58.] And I may make bold to add, that the reason is; because not subjects as <hi>useless,</hi> but meerly as <hi>Subjects</hi> are debarred Regal Authority; and so Works are not rejected from Justification as <hi>External,</hi> but <hi>as Works</hi> (though they be <hi>Internal</hi> and <hi>Spi<g ref="char:EOLhyphen"/>ritual.</hi>)</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But some of our perswasion con<g ref="char:EOLhyphen"/>ceive, that the Works which are denied to justifie, are Works done without the assistance of Divine Grace [or Works done by our own strength.]</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>If they mean <hi>exclusively</hi> (as they must, or else speak not to the Question) I see no reason for their Opinion. For it hath been proved sufficiently, that <hi>Works done by Grace</hi> are not allowed by our <hi>Pa<g ref="char:EOLhyphen"/>tron Paul,</hi> to have any thing to do in Justification (except as <hi>Signs</hi> or <hi>Effects</hi> of it) and thence it follows indeed, that much less can he be supposed to allow any thing <hi>to Works done without Grace.</hi> But if <hi>Paul</hi> intended directly to exclude from Justifi<g ref="char:EOLhyphen"/>cation Works done without Grace, he would have fitted his <hi>instances to his Positi<g ref="char:EOLhyphen"/>on,</hi> and have brought in <hi>Cain</hi> and <hi>Judas,</hi>
+                  <pb n="66" facs="tcp:54685:42"/>rather than <hi>David</hi> and <hi>Abraham</hi> for exam<g ref="char:EOLhyphen"/>ples of Persons not Justified by the Works be disputed of. But seeing he does other<g ref="char:EOLhyphen"/>wise, I cannot but have a better conceit of his <hi>Logick,</hi> who was brought up at the feet of <hi>Gamaliel</hi> then of your Divines, who were brought up at the feet of <hi>Amyraldus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Once more some of our Party con<g ref="char:EOLhyphen"/>ceive, that the <hi>Apostle</hi> intends only to ex<g ref="char:EOLhyphen"/>clude from Justification, those Works, which the Workmen thought to be Me<g ref="char:EOLhyphen"/>ritorious.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I Answer, 1. That according to their own explication of their Notion, it follows, that <hi>Paul</hi> intended to exclude <hi>all works,</hi> even those of the <hi>Gospel Law;</hi> and if you will own the consequence, we will shake hands, and be perfect Friends.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I do not apprehend what explica<g ref="char:EOLhyphen"/>tion you interpret <hi>a giving up our cause.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>'Tis this, That the Objectors con<g ref="char:EOLhyphen"/>fess, <hi>That Christians are prone to place merit in their Faith and Obedience to the Gospel, and that when they do so, their faith and O<g ref="char:EOLhyphen"/>bedience are by Analogy included in, and re<g ref="char:EOLhyphen"/>futed by the Apostles discourse</hi> (viz) <hi>[as not being the righteousness by which they are justi<g ref="char:EOLhyphen"/>ed.]</hi>
+               </p>
+               <p>But 2. I deny, that the Apostle inten<g ref="char:EOLhyphen"/>ded to exclude <hi>only, Works imagined to be meritorious,</hi> and affirm, that because of the
+<pb n="67" facs="tcp:54685:42"/>proness of fallen Man to place Merit in Works. God to make sure work excludes <hi>all werks of our own</hi> from being the <hi>conditi<g ref="char:EOLhyphen"/>on</hi> or <hi>matter</hi> of our <hi>Justification,</hi> and ascribes this <hi>Effect,</hi> only to the Work of another <hi>(viz.) Christ,</hi> and so there's no pretence for the merit excondigno (as the Popish term is) for the <hi>intrinsick value</hi> of the works is from the <hi>Worthiness</hi> of another <hi>Subject</hi> and <hi>Agent,</hi> nor <hi>expacto,</hi> for there is not so much as a <hi>promise</hi> or <hi>contract of God's to justifie us, by any Righteousnss in us or dene by us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But doth not your Doctrine in de<g ref="char:EOLhyphen"/>nying good Works to be the condition of our Justification tond to drive Obedience out of the World?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p n="1">1. I dare appeal to your own ex<g ref="char:EOLhyphen"/>perience, whether this Doctrine hath had any such effect upon the <hi>Puritans</hi> in our time who were stanch <hi>Paulists.</hi>
+               </p>
+               <p n="2">2. I apprehend not the tendency of it to that end, unless you suppose good Works to be of no other use, than to justi<g ref="char:EOLhyphen"/>fie us. And if that be your sentiment, take an Answer to it from a Pious Lear<g ref="char:EOLhyphen"/>ned Divine of <hi>New-England.</hi> Obj. <hi>Good Works are useless, if they be not for Justification.</hi> Sol. <hi>There are uses and necessary uses for our good Works,</hi> Tit. 3.14. <hi>Though they serve not for our Justification. To say otherwise, is as if a Man should say, What use of Money, if I
+<pb n="68" facs="tcp:54685:43"/>cannot eat it? and of my House, if I cannot carry it about? for I can buy Meat with my Money, and dwell in my House.</hi> [Chauncy <hi>of Justification,</hi> pag. 216.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But your Author does not name the <hi>uses.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But I can easily supply that defect. They are, <hi>an Acknowledgment</hi> of Gods <hi>So<g ref="char:EOLhyphen"/>veraignty;</hi> that we cease not to be <hi>Creatures,</hi> by being made <hi>New Creatures, an Expression</hi> of our <hi>Gratitude</hi> to our <hi>Benefactor,</hi> 1 Cor. 6. last, <hi>A shewing forth of Gods Praises,</hi> 1 Pet. 2.9. or <hi>Vertues</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (as I am told the Greek is) <hi>i. e.</hi> the Divine Perfections, Ju<g ref="char:EOLhyphen"/>stice, Goodness, Truth, <hi>&amp;c.</hi> For which <hi>God is worthy to be Praised</hi> [<hi>Psal.</hi> 18.3.] by our imitation of them.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But surely <hi>Good works are necessary to Justification and Salvation?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Many Learned Men think it not safe to use such a <hi>Proposition.</hi> But rather this, <hi>Good Works are necessary to justified Per<g ref="char:EOLhyphen"/>sons, or to those that shall be saved.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I think they are more <hi>Nice</hi> than <hi>Wise.</hi> What's the difference between those two Propositions.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The <hi>Former</hi> makes good works <hi>conditions effecting</hi> Justification. <hi>The Latter</hi> makes them Offices and <hi>Duties</hi> in the Per<g ref="char:EOLhyphen"/>sons justified. [<hi>An. Burgesse.</hi> Vind, Leg. p. 40.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Doth not your Doctrine confirm the
+<pb n="69" facs="tcp:54685:43"/>World in their Soul cozening Faith, in ta<g ref="char:EOLhyphen"/>king Christ for a <hi>Saviour,</hi> and not for a <hi>Lord?</hi> Surely the easiness of the <hi>former,</hi> and difficulty of the <hi>Latter</hi> seemeth to tell us, that this is a necessary part of Justisy<g ref="char:EOLhyphen"/>ing Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>To your Question, I Answer, Ne<g ref="char:EOLhyphen"/>gatively; but you misrepresent our Do<g ref="char:EOLhyphen"/>ctrine. Have not I argued with you suf<g ref="char:EOLhyphen"/>ficiently about it, and showed you that ta<g ref="char:EOLhyphen"/>king Christ for our Lord is an act of Justi<g ref="char:EOLhyphen"/>fying Faith, though not as <hi>Justifying, i. e.</hi> that the same Faith that accepts of Christ for <hi>Justification,</hi> accepts him also for <hi>Sancti<g ref="char:EOLhyphen"/>fication;</hi> but yet, that latter acceptance is not the condition of our Justification, <hi>&amp;c.</hi> As for your talk of the <hi>easiness</hi> of taking Christ for a <hi>Saviour,</hi> if my long acquain<g ref="char:EOLhyphen"/>tance with you, gave not ground to judge you a good Christian, I should much sus<g ref="char:EOLhyphen"/>pect your state for such words. For surely the heart of Man is as much averse from Justification by the Righteousness of Christ, as a Tradesman who hath been long set up for himself, is to serve an Apprentiship. [read <hi>Rom.</hi> 10.3.] But I suppose your meaning is, that because we allow not a <hi>purpose</hi> of submitting to Christs Laws, nor an <hi>actual Submission</hi> to be the <hi>Condition</hi> of our Justification; therefore our Doctrine incourages Men to look for Happiness
+<pb n="70" facs="tcp:54685:44"/>without Holiness. But I Answer, that there is no ground from <hi>it,</hi> for such incou<g ref="char:EOLhyphen"/>ragement, for we constantly affirm, that Sanctification is inseparable from Justifica<g ref="char:EOLhyphen"/>tion, and though it gives not a <hi>right,</hi> yet it does a <hi>fitness</hi> for Heaven; the main hap<g ref="char:EOLhyphen"/>piness thereof lying in mutual Communi<g ref="char:EOLhyphen"/>on between God and us, there can be no <hi>liking</hi> between God and us, unless there be a <hi>likeness</hi> between us.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Is not this excluding of sincere Obe<g ref="char:EOLhyphen"/>dience from Justification the great stumb<g ref="char:EOLhyphen"/>ling block of <hi>Papists?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Are you thereabouts, my Old Friend? It seems then you <hi>Symbolize</hi> with <hi>them,</hi> how else does <hi>your Doctrine</hi> remove the stambling block, which <hi>ours</hi> puts in their way? And indeed <hi>you</hi> make the <hi>Go<g ref="char:EOLhyphen"/>spel</hi> a Law with threats? So <hi>they.</hi> Your Ar<g ref="char:EOLhyphen"/>guments for the <hi>conditionality,</hi> are all the same with theirs, for the <hi>merit</hi> of <hi>Gospel Works</hi> in Justification.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But there is a <hi>wide</hi> difference be<g ref="char:EOLhyphen"/>tween conditionality and merit.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>We will talk of that by and by. In the mean while, I must tell you, that it is very lucky that your <hi>Arguments</hi> should be the <hi>same,</hi> and yet your <hi>Doctrine different.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But there is a geat deal of differ<g ref="char:EOLhyphen"/>ence between our Doctrine and the Popish. For they take <hi>Justifying</hi> for <hi>Sanctifying,</hi> but so do not we.</p>
+            </sp>
+            <sp>
+               <pb n="71" facs="tcp:54685:44"/>
+               <speaker>Paul.</speaker>
+               <p>Though you do not consound the <hi>Terms,</hi> yet you do, the <hi>things</hi> signified by them. I mean, you make Works the <hi>mat<g ref="char:EOLhyphen"/>ter</hi> of <hi>Justification</hi> and <hi>Sanctification.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>They overthrow the most real dif<g ref="char:EOLhyphen"/>ference between the Old Covenant, &amp; the New, and make them in a manner all one.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The most real difference between those two Covenants, I take to be, that in the <hi>former</hi> our Justification was by <hi>per<g ref="char:EOLhyphen"/>sonal righteousness;</hi> in the <hi>latter</hi> by <hi>righteous<g ref="char:EOLhyphen"/>ness of another</hi> imputed to us. And though ye do own [after a sort,] <hi>imputed Righte<g ref="char:EOLhyphen"/>ousness,</hi> yet by introducing a <hi>personal Righ<g ref="char:EOLhyphen"/>teousness for Justification,</hi> ye <hi>do in a manner wake the two Covenants one,</hi> as well as the Papists. For if this <hi>latter</hi> righteousness can obtain the end you assign it, the <hi>former</hi> is useless as to that end.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But when they say, we are justified by Works of the Gospel; they mean only that we are Sanctified by works that fol<g ref="char:EOLhyphen"/>low Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>If that be their only meaning, they are sounder than you. For then, they do not own <hi>Justification</hi> by Works of the Go<g ref="char:EOLhyphen"/>spel, as you do.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>The Papists take our Works to be part of our <hi>Legal Righteousness;</hi> we take them not to be the smalest portion of it; but only a part of our <hi>Evangelical Righte<g ref="char:EOLhyphen"/>ousness,</hi>
+                  <pb n="72" facs="tcp:54685:45"/>or of the condition upon which Christs Righteousness shall be ours.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p n="1">1. You wrong the Papists to right your selves. For they do not make their inherent Righteousness part of Christ's Righteousness, but they ascribe the merit of the <hi>former</hi> to the merit of the <hi>latter:</hi> or (to use their own words,) they say, <hi>Christ hath merited that we should merit:</hi> Or that <hi>our works merit being dipped in the blood of Christ.</hi>
+               </p>
+               <p n="2">2. Whereas you say, <hi>You do not take works to be the smallest portion of our Legal Righteousness:</hi> It cannot sink into my head, that you can mean as you say, because you assign the same end to <hi>your</hi> Works, which <hi>Christ</hi> aimed at in <hi>his;</hi> I mean, <hi>our justification.</hi> We indeed truly affirm, that <hi>our Works</hi> are not the smallest portion of our <hi>Legal Righteousness;</hi> because we do them not for the same end, that Christ did his <hi>(viz.)</hi> for our Justification, but for the Glory of God's Soveraignty, which is not depressed by the exaltation of Mercy.</p>
+               <p n="3">3. You call your <hi>Works only a part of our Evangelical Righteousness.</hi> Pray what is the other part?</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>
+                  <hi>Faith.</hi> Have you forgotten our late Discourse?</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>No, no. But I thought fit to quicken your attention by the Question,
+<pb n="73" facs="tcp:54685:45"/>to a passage of the Learned <hi>Ball,</hi> (whom your party unjustly claim) <hi>How Faith and Works should be conjoined, as con-causes in Justification is impossible to conceive,</hi> [Treat. <hi>Covenant of Grace,</hi> p. 70.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But he was mistaken: Do not you remember what I told you lately, that <hi>our Works are part of the condition upon which Christs Righteousness shall be ours,</hi> and <hi>Faith</hi> another part. And so they are <hi>con-causes</hi> or have the same causality <hi>(viz.)</hi> of a condition of Justification.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But this will not salve the difficul<g ref="char:EOLhyphen"/>ty. For then <hi>Faith is not contra-distinguish<g ref="char:EOLhyphen"/>ed to Works,</hi> but is only <hi>one more eminent part</hi> of the <hi>Works</hi> by which we are <hi>justi<g ref="char:EOLhyphen"/>fied,</hi> and so Faith and Works are not <hi>joynt</hi>-Causes, but Works are the <hi>Sole</hi> cause [or <hi>condition</hi>] of our Justification. I conclude with a repetion of a passage of the Learn<g ref="char:EOLhyphen"/>ed <hi>Tully,</hi> (which one that understands Latine hath translated for me) concerning the Author of those differences you have assigned between the Popish Doctrine and yours. <hi>The Reverend</hi> A. <hi>endeavours indeed to clear his opinion from the suspicion of that contagion [viz.</hi> Popery] <hi>but this he does so faintly, in so few words, and so cursorily, that any one may perceive be undertook a task no way greatful to himself, [Just if.</hi> Paul. <hi>p.</hi> 116.] But now it is high time to proceed to a<g ref="char:EOLhyphen"/>nother
+<pb n="74" facs="tcp:54685:46"/>nother grand Argument against your con<g ref="char:EOLhyphen"/>ditionality of works done by Grace. The <hi>First</hi> was that no works are the condition of Justification therefore not Works done by Grace.</p>
+               <p>
+                  <hi>Arg.</hi> 2. The Second is, That if Works done by Grace are the condition [or mat<g ref="char:EOLhyphen"/>ter] of Justification before God, then our Justification is not of Grace.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>I should think that the Conse<g ref="char:EOLhyphen"/>quence should be rather, that then our Justification is of Grace.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>No such matter; at least, if you will credit a Divine of your own Denomi<g ref="char:EOLhyphen"/>nation, who says; <hi>By the Covenant of works the meer work gave an interest in the reward, as it was obedience to the precept, by a Sancli<g ref="char:EOLhyphen"/>on that had goodness, but no such Grace,</hi> [<hi>viz.</hi> as that in the Covenant of Grace] It seems then, that in <hi>his Opinion,</hi> the <hi>goodness</hi> [or Grace] of God did not appear so eminent<g ref="char:EOLhyphen"/>ly in the <hi>Covenant of Works</hi> wherein the promise was made to the meer Work, as it does, in the <hi>Covenant of Grace.</hi> And hence I infer, that therefore this <hi>latter Co<g ref="char:EOLhyphen"/>venant,</hi> that it may answer its denomina<g ref="char:EOLhyphen"/>tion, and be sufficiently distinguished from the <hi>former,</hi> must not have a <hi>sanction</hi> [or promise of Justification and Salvation] made to the <hi>meer Works.</hi> i. e. <hi>Obedience to the Precept,</hi> which yet he and you assert
+<pb n="75" facs="tcp:54685:46"/>in sense, though not in the very terms mentioned. And one of your Party upon <hi>Rom.</hi> 3.28, 29. compared, says, that we are Justified, <hi>i. e.</hi> accounted Righteous and dealt with accordingly: <hi>By believing in Christ, which is our Gospel Righteousness, or the terms and conditions of the Covenant of Grace for Justification (as amongst us some Felons are quited as to life by their Clergy, or upon their reading.)</hi> And this Faith, he describes, <hi>such a firm, hearty, lively belief of Christ to be what the Gospel declares him to be, as begets sincere obedience in the life.</hi> It is plain, that this Authour makes Faith in Christ such a condition, as <hi>reading</hi> to the Felons acquit<g ref="char:EOLhyphen"/>tal. And sure <hi>this</hi> a <hi>meer Work</hi> required by the <hi>Law</hi> by vertue whereof his life is sa<g ref="char:EOLhyphen"/>ved. And he makes that Faith to be a <hi>Dogmatical Faith;</hi> which is a <hi>meer work,</hi> and cannot be otherwise considered, then as such. Let us frame a definition of the Faith required in the Covenant of Works, according to this Authors Notion. It was such a firm, hearty, lively belief of <hi>God</hi> to be, what the <hi>Light of Nature</hi> declared him to be, as begat <hi>perfect Obedience</hi> in the life. And then, I think he is quick sighted, that can discern a difference between the <hi>one</hi> Faith and the <hi>other</hi> in their respect to the Sanctions. For both are <hi>meer</hi> works, and as such, give interest in the reward promised.</p>
+            </sp>
+            <sp>
+               <pb n="76" facs="tcp:54685:47"/>
+               <speaker>Gal.</speaker>
+               <p>But the reward is not to the <hi>meer Work</hi> in the Covenant of Grace, because 'tis but <hi>Sincerity</hi> (which is consistent with <hi>Sin,</hi>) that is the condition of the reward.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The same <hi>Authour</hi> upon <hi>Rom.</hi> 3.27. interprets the <hi>Law of works to be that Law which requires perfect Obedience for Justifica<g ref="char:EOLhyphen"/>tion, and the Law of Faith, that Gospel Law, which sets up Faith in the room of Law-works for Justification,</hi> so that then, whether the work were <hi>perfect</hi> or <hi>sincere Justification</hi> is the reward promised to both; to the <hi>for<g ref="char:EOLhyphen"/>mer,</hi> as a <hi>meer Old Law-work,</hi> to the <hi>latter,</hi> as a <hi>meer New Law-work.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But the aforesaid Author says, on <hi>Rom.</hi> 3.9. All being guilty of Sin, are equally excluded from possibility of being justified by Works.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>But all New Law-Workers are guilty of Sin, <hi>Ergo,</hi> they are equally ex<g ref="char:EOLhyphen"/>cluded from a possibility of being Justified by Works.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But you omit what the Authour adds in the same verse. <hi>And therefore the Gospel righteousness is no less necessary for the one</hi> [the Jews] <hi>than the other</hi> [the Gentiles.]</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Well minded. <hi>Necessary</hi> for what? To reconcile contradictions; that they who being Sinners cannot be Justified by any Works, should be justified by <hi>some</hi> [<hi>viz.</hi> New Law-Works.]</p>
+            </sp>
+            <sp>
+               <pb n="77" facs="tcp:54685:47"/>
+               <speaker>Gal.</speaker>
+               <p>But how do you prove your Consequence, that if Works of Grace be the condition of Justifi<g ref="char:EOLhyphen"/>cation? then Justification is not of Grace.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Because those Works give occasion of hoast<g ref="char:EOLhyphen"/>ing, so <hi>Rom.</hi> 3.27. Hence the Apostle Argues, <hi>chap.</hi> 4.2. which runs thus. If <hi>Abraham</hi> were justified by Works, he hath whereof to Glory <hi>[viz. before God]</hi> But he hath not whereof to glory before God; there<g ref="char:EOLhyphen"/>fore <hi>Abraham</hi> was not justified by Works. [So <hi>Calv. Par.</hi> and others.]</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But these Works are such as were done with<g ref="char:EOLhyphen"/>out special grace, or perfect, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Enough hath been said to confute that pre<g ref="char:EOLhyphen"/>tence.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But <hi>Faith</hi> is the Work of God, and so takes away boasting of our own Abilities, and Righteous<g ref="char:EOLhyphen"/>ness.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>As though Works done by common grace, or perfect works, were not the Works of God too; and upon the same ground exclude Boasting in <hi>our own Abilities.</hi>
+               </p>
+               <p n="2">2. As to <hi>Righteousness,</hi> if <hi>Faith</hi> be such, either it gives ground of boasting (and so is excluded from Justification) or if it do'nt, then the Apostle gives a caution where there is no danger. I shall only add, that the Apostles design is, to prove, that we are <hi>Justified</hi> by <hi>Grace,</hi> and so all pretence of <hi>Boasting</hi> is excluded, <hi>Because we are not Justified by any Righ<g ref="char:EOLhyphen"/>teousness in us from Christ, but by a Righteousness in Christ for us.</hi> And so we proceed to,</p>
+               <p>
+                  <hi>Arg.</hi> 3. If we are justified by Righteousness of Christ imputed, then we are not justified by our inherent Righteousness: But the <hi>former</hi> is true, and therefore the <hi>latter.</hi> That Christ's Righteousness is imputed appears by <hi>Rom.</hi> 4.11. compared with 2 <hi>Cor.</hi> 5. <hi>ult.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But what do you mean by the term <hi>Imputati<g ref="char:EOLhyphen"/>on</hi> in this Question?</p>
+            </sp>
+            <sp>
+               <pb n="78" facs="tcp:54685:48"/>
+               <speaker>Paul.</speaker>
+               <p>It is an Act of God ascribing to us the Righteousness of Christ, and accounting it ours no less, than if we had in our own Persons performed it, [so Dr. <hi>W. Slater</hi> on <hi>Rom.</hi> 4.6. p. 52. and generally our Divines to the same sense if their words be some<g ref="char:EOLhyphen"/>what different] And the Foundation of this <hi>Act of Gods,</hi> they make <hi>Christ's suretyship,</hi> mentioned, <hi>Heb.</hi> 7.22.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>This Opinion seemeth to ascribe to God a mistaking <hi>Judgment,</hi> as to esteem us to have done in Christ what we did not.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>There's no more ground to suppose a mi<g ref="char:EOLhyphen"/>stake in God, than in the Creditor, that he should reckon his debt paid by the Debtor, when he knew it was paid by the Surety. But as the payment of the debt by the surety is in the eye of the Law the Debtor's Act. So is the Righteousness of Christ per<g ref="char:EOLhyphen"/>formed by him in our stead, by legal reputation, is our act and deed, and is available to us, as if had been personal.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Then we are as Righteous as Christ.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p n="1">1. Some of our Divines deny the conse<g ref="char:EOLhyphen"/>quence, and think it no better than this, <hi>The Debtor is as rich as his Surety, because the Surety hath paid his Debt</hi> [<hi>Clarkson</hi> Sermon a Morning Lecture against Popery, <hi>pag.</hi> 455.] And they give this Reason, <hi>Be<g ref="char:EOLhyphen"/>cause the Righteousness of christ is not imputed to any particular believer according to the whole latitude of it, but as he needs it,</hi> [<hi>Dav.</hi> Just. Hab. p. 331.]</p>
+               <p n="2">2. Some Divines grant the consequence, with li<g ref="char:EOLhyphen"/>mitation. A Learned Man in a Sermon just now published: says, <hi>As Christ is perfectly Righteous hav<g ref="char:EOLhyphen"/>ing fully paid the Debt, and being fully discharged, so are they in him.</hi> And he adds for illustration and proof, <hi>The Original Debtor is as cleer and free as his surety is, considered as his surety, when the debt is paid, and that payment accepted for, and adjudged to the Original Debtor, by the Creditor.</hi> [Mr. <hi>Nath.
+<pb n="79" facs="tcp:54685:48"/>Mather.</hi> Ser. <hi>Righteousness of God,</hi> p. 24, 25.] And I see not what exception can be made against the grant, thus bounded.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But you have forgot to prove your conse<g ref="char:EOLhyphen"/>quence.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>No, no. That is proved thus, he that hath a Righteousness of his own, needs not another's for Justification. And he that is Justified by anothers Righteousness, must needs be supposed to be destitute of any Righteousness of his own. And thus much is imported in that notable Scripture, <hi>Phil.</hi> 3.8, 9. which all <hi>Old Protestant Divines</hi> were wont to <hi>urge</hi> against the <hi>Papists.</hi> The great <hi>Calvin</hi> observes on this place, that the <hi>Apostles compares two Righteous<g ref="char:EOLhyphen"/>nesses together, Man's own, and Gods, as contraries which cannot stand together — For whereas the, Law brings Works, Faith essers a naked Man to God, that he may be clothed with the Righteousness of Christ.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>Some of our Divines understand the Righ<g ref="char:EOLhyphen"/>teousness here opposed to be <hi>Pauls</hi> Jewish and Evan<g ref="char:EOLhyphen"/>gelical Righteousness.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p n="1">1. Then there's no <hi>Opposition,</hi> at all, not be<g ref="char:EOLhyphen"/>tween the <hi>Righteousnesses,</hi> for neither of them are a Righteousness: nor the <hi>former</hi> for that is defective in <hi>parts,</hi> [external Righteousness without internal,] not the <hi>latter,</hi> for that is defective in <hi>degrees</hi> [by the Apostles acknowledgement, <hi>ver.</hi> 12. <hi>Not as trough I were already perfect</hi> nor between the <hi>Apostles in<g ref="char:EOLhyphen"/>terest</hi> in them. If the words <hi>my own</hi> refer to the <hi>Au<g ref="char:EOLhyphen"/>thor, neither</hi> of the Righteousnesses were <hi>his own,</hi> both <hi>Gods.</hi> If to the <hi>Subject and Agent,</hi> then <hi>both</hi> were <hi>his own.</hi> [see <hi>Acts.</hi> 15.9.1 <hi>Joh.</hi> 3.3.] And it can<g ref="char:EOLhyphen"/>not sink into my head, that the Apostle could not speak sense.</p>
+               <p n="2">2. Supposing the Law of Opposition observed: Why does the Apostle renounce his own <hi>Pharajaical Righteousness?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="80" facs="tcp:54685:49"/>
+               <speaker>Gal.</speaker>
+               <p>Because it would not be <hi>gain</hi> to him. <hi>i. e.</hi> advantageous to him to procure acceptance with God.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>Then it seems he relied upon his <hi>own Gospel Righteousness</hi> for that end, which could not be ob<g ref="char:EOLhyphen"/>tained by his <hi>other Righteousness.</hi> But I have always thought, that God hath made us accepted in the belo<g ref="char:EOLhyphen"/>ved, <hi>Eph.</hi> 1.6. <hi>i. e.</hi> that Christ's Righteousness, [<hi>viz.</hi> whereof himself is the <hi>Subject</hi> and <hi>Agent</hi>] had been the procuring cause of our acceptance with God.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>But a late Author urges many Arguments to confirm his interpretation.</p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>I am not ignorant of them, but what you have heard now will give you an intimation what Answer may be returned. My occasions call me a<g ref="char:EOLhyphen"/>way, you and I may have perhaps an opportunity to discourse further of these Points, and others where<g ref="char:EOLhyphen"/>in your Party stand at a great distance from ours. In the mean while, as to the main point we have been upon, I would have you consider, that all the <hi>Protestant Arguments,</hi> though they are directed a<g ref="char:EOLhyphen"/>gainst the <hi>merit</hi> of Works asserted by the <hi>Papists,</hi> yet they exclude the <hi>Conditionality</hi> of them too; because they make Faith the only medium or instrument of applying Christs Righteousness, as the meer Act of the eye, was the only means of cure to the <hi>Israelites</hi> bitten by siery Serpents, <hi>John</hi> 3.14.15.</p>
+            </sp>
+            <sp>
+               <speaker>Gal.</speaker>
+               <p>This parting word sticks. I believe I shall shortly be a <hi>Deserter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Paul.</speaker>
+               <p>The sooner the better.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:54685:49"/>
+         </div>
+      </body>
+   </text>
+</TEI>
